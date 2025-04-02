@@ -1,0 +1,23 @@
+Tasks:
+
+- Leggere il contenuto del file imdb_movies_2024.csv
+- Ottenere la lista dei film ordinata per titolo (attenzione c'è una difficoltà da gestire)
+- Sapere quanti film hanno una durata >= 2h
+- Mostrare una tabella contenente il totale di film raggruppati per colonna MPA (per il significato dell'MPA vedere nota sottostante)
+- Mostrare i film che hanno avuto un rating superiore a 7.5
+
+
+==================================
+
+Nota: 1
+
+MPA, quando si parla di film, si riferisce alla Motion Picture Association, 
+un'organizzazione che rappresenta gli studi cinematografici più importanti di Hollywood.  
+
+L'MPA è nota soprattutto per il suo sistema di classificazione dei film negli Stati Uniti, 
+che assegna rating come:  
+- G (General Audiences – adatto a tutti)  
+- PG (Parental Guidance Suggested – supervisione dei genitori suggerita)  
+- PG-13 (Parents Strongly Cautioned – alcuni contenuti potrebbero non essere adatti ai minori di 13 anni)  
+- R (Restricted – vietato ai minori di 17 anni senza un adulto)  
+- NC-17 (No One 17 and Under Admitted – vietato ai minori di 18 anni)  
