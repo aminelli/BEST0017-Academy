@@ -110,10 +110,7 @@ print(pr2)
 
 # {city, first_name } = person
 
-# - Funzioni e Parametri
-# - Definire una funzione: sintassi base con def
-# - Parametri e ritorno di valori
-# - Funzioni con argomenti variabili: *args, **kwargs
-# - Esercizi pratici: scrivere funzioni per risolvere piccoli problemi
+
+
 
 print("END")
