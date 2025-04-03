@@ -159,18 +159,11 @@ quadrati = [ [ x ** 2 for x in row ] for row in matrix]
 print(matrix)
 print(quadrati)
 
+
+
+
+
+
 print("END")    
  
-
-
-
-
-
-
-# - Esercizi pratici: gestire condizioni e cicli per risolvere semplici problemi
-# - Funzioni e Parametri
-# - Definire una funzione: sintassi base con def
-# - Parametri e ritorno di valori
-# - Funzioni con argomenti variabili: *args, **kwargs
-# - Esercizi pratici: scrivere funzioni per risolvere piccoli problemi
 
