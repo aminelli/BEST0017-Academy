@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "disponibile": true
+    },
+    {
+        "id": 2,
+        "title": "Il Signore degli Anelli",
+        "author": "J.R.R. Tolkien",
+        "year": 1954,
+        "disponibile": false
+    },
+    {
+        "id": 3,
+        "title": "Il nome della rosa",
+        "author": "Umberto Eco",
+        "year": 1980,
+        "disponibile": true
+    },
+    {
+        "id": 4,
+        "title": "Cento anni di solitudine",
+        "author": "Gabriel García Márquez",
+        "year": 1967,
+        "disponibile": true
+    },
+    {
+        "id": 5,
+        "title": "Orgoglio e pregiudizio",
+        "author": "Jane Austen",
+        "year": 1813,
+        "disponibile": false
+    },
+    {
+        "id": 6,
+        "title": "Delitto e castigo",
+        "author": "Fëdor Dostoevskij",
+        "year": 1866,
+        "disponibile": true
+    },
+    {
+        "id": 7,
+        "title": "Il piccolo principe",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1943,
+        "disponibile": true
+    },
+    {
+        "id": 8,
+        "title": "Harry Potter e la pietra filosofale",
+        "author": "J.K. Rowling",
+        "year": 1997,
+        "disponibile": false
+    },
+    {
+        "id": 9,
+        "title": "Il grande Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": 1925,
+        "disponibile": true
+    },
+    {
+        "id": 10,
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "year": 1851,
+        "disponibile": true
+    },
+    {
+        "id": 11,
+        "title": "Don Chisciotte della Mancia",
+        "author": "Miguel de Cervantes",
+        "year": 1605,
+        "disponibile": true
+    },
+    {
+        "id": 12,
+        "title": "I promessi sposi",
+        "author": "Alessandro Manzoni",
+        "year": 1827,
+        "disponibile": false
+    },
+    {
+        "id": 13,
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "year": 1897,
+        "disponibile": true
+    },
+    {
+        "id": 14,
+        "title": "La fattoria degli animali",
+        "author": "George Orwell",
+        "year": 1945,
+        "disponibile": true
+    },
+    {
+        "id": 15,
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "year": 1953,
+        "disponibile": false
+    }
+]

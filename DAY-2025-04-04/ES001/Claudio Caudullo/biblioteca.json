@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Percy Jackson e gli dell'olimpo: La maledizione del titano",
+        "author": "Rick Riordan",
+        "year": 2007,
+        "available": true
+    },
+    {
+        "id": 2,
+        "title": "Percy Jackson e gli dell'olimpo: La battaglia del labirinto",
+        "author": "Rick Riordan",
+        "year": 2008,
+        "available": true
+    },
+    {
+        "id": 3,
+        "title": "Harry potter e la pietra filosofale",
+        "author": " J. K. Rowling",
+        "year": 1997,
+        "available": true
+    }
+]

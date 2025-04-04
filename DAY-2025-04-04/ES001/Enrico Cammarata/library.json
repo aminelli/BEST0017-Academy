@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "available": true
+    },
+    {
+        "id": 2,
+        "title": "Divina commedia",
+        "author": "Dante Alighieri",
+        "year": 1321,
+        "available": true
+    },
+    {
+        "id": 3,
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "year": 1851,
+        "available": true
+    },
+    {
+        "id": 4,
+        "title": "The great Gatsby",
+        "author": "Francis S. Fitzgerald",
+        "year": 1925,
+        "available": true
+    },
+    {
+        "id": 5,
+        "title": "Ulisse",
+        "author": "James Joyce",
+        "year": 1922,
+        "available": true
+    }
+]

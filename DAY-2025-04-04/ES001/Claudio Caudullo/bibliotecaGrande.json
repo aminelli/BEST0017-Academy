@@ -1,0 +1,7002 @@
+[
+    {
+        "id": 1,
+        "title": "L’ombra del passato 4",
+        "author": "Jane Austen",
+        "year": 1908,
+        "available": true
+    },
+    {
+        "id": 2,
+        "title": "Il risveglio del drago 4",
+        "author": "Isaac Asimov",
+        "year": 1915,
+        "available": true
+    },
+    {
+        "id": 3,
+        "title": "La luce delle stelle 2",
+        "author": "Stephen King",
+        "year": 1898,
+        "available": true
+    },
+    {
+        "id": 4,
+        "title": "Il segreto del tempo 2",
+        "author": "Stephen King",
+        "year": 1939,
+        "available": true
+    },
+    {
+        "id": 5,
+        "title": "L’ultimo guardiano 5",
+        "author": "Isaac Asimov",
+        "year": 1927,
+        "available": false
+    },
+    {
+        "id": 6,
+        "title": "Le cronache del fuoco 2",
+        "author": "George Orwell",
+        "year": 1850,
+        "available": false
+    },
+    {
+        "id": 7,
+        "title": "Le cronache del fuoco 1",
+        "author": "J. K. Rowling",
+        "year": 2008,
+        "available": true
+    },
+    {
+        "id": 8,
+        "title": "La vendetta del mago 2",
+        "author": "Rick Riordan",
+        "year": 2005,
+        "available": false
+    },
+    {
+        "id": 9,
+        "title": "Il castello dimenticato 4",
+        "author": "Jane Austen",
+        "year": 2001,
+        "available": true
+    },
+    {
+        "id": 10,
+        "title": "Il castello dimenticato 2",
+        "author": "George R. R. Martin",
+        "year": 1886,
+        "available": false
+    },
+    {
+        "id": 11,
+        "title": "Il segreto del tempo 1",
+        "author": "J. K. Rowling",
+        "year": 1893,
+        "available": true
+    },
+    {
+        "id": 12,
+        "title": "L’ombra del passato 4",
+        "author": "Rick Riordan",
+        "year": 1921,
+        "available": false
+    },
+    {
+        "id": 13,
+        "title": "L’ultimo guardiano 5",
+        "author": "J. R. R. Tolkien",
+        "year": 1960,
+        "available": false
+    },
+    {
+        "id": 14,
+        "title": "Il risveglio del drago 2",
+        "author": "Stephen King",
+        "year": 2018,
+        "available": false
+    },
+    {
+        "id": 15,
+        "title": "Il risveglio del drago 4",
+        "author": "Isaac Asimov",
+        "year": 1977,
+        "available": true
+    },
+    {
+        "id": 16,
+        "title": "La profezia finale 1",
+        "author": "Stephen King",
+        "year": 1910,
+        "available": true
+    },
+    {
+        "id": 17,
+        "title": "Il segreto del tempo 4",
+        "author": "Stephen King",
+        "year": 1885,
+        "available": true
+    },
+    {
+        "id": 18,
+        "title": "L’ombra del passato 2",
+        "author": "Umberto Eco",
+        "year": 1884,
+        "available": true
+    },
+    {
+        "id": 19,
+        "title": "L’ombra del passato 4",
+        "author": "Rick Riordan",
+        "year": 1972,
+        "available": true
+    },
+    {
+        "id": 20,
+        "title": "Il risveglio del drago 5",
+        "author": "Jane Austen",
+        "year": 1973,
+        "available": false
+    },
+    {
+        "id": 21,
+        "title": "Il castello dimenticato 4",
+        "author": "Stephen King",
+        "year": 1969,
+        "available": false
+    },
+    {
+        "id": 22,
+        "title": "L’ombra del passato 4",
+        "author": "Stephen King",
+        "year": 1929,
+        "available": false
+    },
+    {
+        "id": 23,
+        "title": "Il castello dimenticato 1",
+        "author": "George Orwell",
+        "year": 2022,
+        "available": true
+    },
+    {
+        "id": 24,
+        "title": "Il regno perduto 5",
+        "author": "Jane Austen",
+        "year": 1950,
+        "available": false
+    },
+    {
+        "id": 25,
+        "title": "Il risveglio del drago 2",
+        "author": "J. K. Rowling",
+        "year": 1977,
+        "available": true
+    },
+    {
+        "id": 26,
+        "title": "Le cronache del fuoco 1",
+        "author": "J. R. R. Tolkien",
+        "year": 1949,
+        "available": false
+    },
+    {
+        "id": 27,
+        "title": "Il risveglio del drago 2",
+        "author": "George R. R. Martin",
+        "year": 2015,
+        "available": false
+    },
+    {
+        "id": 28,
+        "title": "Il risveglio del drago 5",
+        "author": "Jane Austen",
+        "year": 1895,
+        "available": true
+    },
+    {
+        "id": 29,
+        "title": "La luce delle stelle 4",
+        "author": "J. R. R. Tolkien",
+        "year": 1910,
+        "available": false
+    },
+    {
+        "id": 30,
+        "title": "L’ultimo guardiano 5",
+        "author": "J. K. Rowling",
+        "year": 1883,
+        "available": false
+    },
+    {
+        "id": 31,
+        "title": "L’ombra del passato 1",
+        "author": "George R. R. Martin",
+        "year": 1993,
+        "available": false
+    },
+    {
+        "id": 32,
+        "title": "L’ombra del passato 2",
+        "author": "Isaac Asimov",
+        "year": 1884,
+        "available": true
+    },
+    {
+        "id": 33,
+        "title": "Il segreto del tempo 2",
+        "author": "Stephen King",
+        "year": 1906,
+        "available": false
+    },
+    {
+        "id": 34,
+        "title": "Le cronache del fuoco 1",
+        "author": "Rick Riordan",
+        "year": 1988,
+        "available": false
+    },
+    {
+        "id": 35,
+        "title": "Il risveglio del drago 5",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1974,
+        "available": false
+    },
+    {
+        "id": 36,
+        "title": "L’ultimo guardiano 3",
+        "author": "George R. R. Martin",
+        "year": 1961,
+        "available": false
+    },
+    {
+        "id": 37,
+        "title": "La luce delle stelle 2",
+        "author": "Jane Austen",
+        "year": 1893,
+        "available": false
+    },
+    {
+        "id": 38,
+        "title": "La vendetta del mago 5",
+        "author": "George Orwell",
+        "year": 1956,
+        "available": false
+    },
+    {
+        "id": 39,
+        "title": "La profezia finale 4",
+        "author": "Rick Riordan",
+        "year": 1963,
+        "available": true
+    },
+    {
+        "id": 40,
+        "title": "Il segreto del tempo 4",
+        "author": "J. K. Rowling",
+        "year": 1984,
+        "available": true
+    },
+    {
+        "id": 41,
+        "title": "Il castello dimenticato 3",
+        "author": "Stephen King",
+        "year": 1939,
+        "available": true
+    },
+    {
+        "id": 42,
+        "title": "Il risveglio del drago 4",
+        "author": "Isaac Asimov",
+        "year": 1922,
+        "available": false
+    },
+    {
+        "id": 43,
+        "title": "Le cronache del fuoco 4",
+        "author": "George Orwell",
+        "year": 1854,
+        "available": false
+    },
+    {
+        "id": 44,
+        "title": "Il castello dimenticato 3",
+        "author": "J. K. Rowling",
+        "year": 1986,
+        "available": false
+    },
+    {
+        "id": 45,
+        "title": "Il castello dimenticato 2",
+        "author": "J. K. Rowling",
+        "year": 2016,
+        "available": true
+    },
+    {
+        "id": 46,
+        "title": "La luce delle stelle 1",
+        "author": "George R. R. Martin",
+        "year": 1908,
+        "available": false
+    },
+    {
+        "id": 47,
+        "title": "Il segreto del tempo 1",
+        "author": "J. R. R. Tolkien",
+        "year": 1881,
+        "available": true
+    },
+    {
+        "id": 48,
+        "title": "Il segreto del tempo 2",
+        "author": "J. R. R. Tolkien",
+        "year": 1882,
+        "available": true
+    },
+    {
+        "id": 49,
+        "title": "Il regno perduto 2",
+        "author": "George Orwell",
+        "year": 2024,
+        "available": false
+    },
+    {
+        "id": 50,
+        "title": "La vendetta del mago 4",
+        "author": "Rick Riordan",
+        "year": 1913,
+        "available": false
+    },
+    {
+        "id": 51,
+        "title": "Il risveglio del drago 5",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1898,
+        "available": true
+    },
+    {
+        "id": 52,
+        "title": "Il segreto del tempo 5",
+        "author": "Rick Riordan",
+        "year": 2001,
+        "available": true
+    },
+    {
+        "id": 53,
+        "title": "Il risveglio del drago 5",
+        "author": "Umberto Eco",
+        "year": 1880,
+        "available": false
+    },
+    {
+        "id": 54,
+        "title": "La luce delle stelle 5",
+        "author": "Isaac Asimov",
+        "year": 1873,
+        "available": true
+    },
+    {
+        "id": 55,
+        "title": "La luce delle stelle 4",
+        "author": "George Orwell",
+        "year": 1950,
+        "available": false
+    },
+    {
+        "id": 56,
+        "title": "La profezia finale 4",
+        "author": "George R. R. Martin",
+        "year": 1945,
+        "available": false
+    },
+    {
+        "id": 57,
+        "title": "L’ultimo guardiano 3",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1930,
+        "available": true
+    },
+    {
+        "id": 58,
+        "title": "Il segreto del tempo 2",
+        "author": "Umberto Eco",
+        "year": 1854,
+        "available": false
+    },
+    {
+        "id": 59,
+        "title": "La vendetta del mago 3",
+        "author": "George R. R. Martin",
+        "year": 1903,
+        "available": true
+    },
+    {
+        "id": 60,
+        "title": "L’ultimo guardiano 3",
+        "author": "Umberto Eco",
+        "year": 1905,
+        "available": false
+    },
+    {
+        "id": 61,
+        "title": "La luce delle stelle 4",
+        "author": "George Orwell",
+        "year": 1913,
+        "available": false
+    },
+    {
+        "id": 62,
+        "title": "Il regno perduto 1",
+        "author": "Rick Riordan",
+        "year": 1962,
+        "available": true
+    },
+    {
+        "id": 63,
+        "title": "La luce delle stelle 2",
+        "author": "Stephen King",
+        "year": 1896,
+        "available": true
+    },
+    {
+        "id": 64,
+        "title": "L’ultimo guardiano 5",
+        "author": "Stephen King",
+        "year": 1891,
+        "available": true
+    },
+    {
+        "id": 65,
+        "title": "La luce delle stelle 1",
+        "author": "Jane Austen",
+        "year": 1853,
+        "available": true
+    },
+    {
+        "id": 66,
+        "title": "Il castello dimenticato 5",
+        "author": "J. K. Rowling",
+        "year": 1963,
+        "available": false
+    },
+    {
+        "id": 67,
+        "title": "La luce delle stelle 2",
+        "author": "George Orwell",
+        "year": 1856,
+        "available": false
+    },
+    {
+        "id": 68,
+        "title": "Le cronache del fuoco 3",
+        "author": "Rick Riordan",
+        "year": 1877,
+        "available": true
+    },
+    {
+        "id": 69,
+        "title": "Il castello dimenticato 4",
+        "author": "J. R. R. Tolkien",
+        "year": 1856,
+        "available": false
+    },
+    {
+        "id": 70,
+        "title": "L’ombra del passato 2",
+        "author": "George Orwell",
+        "year": 1853,
+        "available": false
+    },
+    {
+        "id": 71,
+        "title": "La luce delle stelle 1",
+        "author": "Umberto Eco",
+        "year": 2014,
+        "available": false
+    },
+    {
+        "id": 72,
+        "title": "La profezia finale 3",
+        "author": "Isaac Asimov",
+        "year": 1923,
+        "available": true
+    },
+    {
+        "id": 73,
+        "title": "La profezia finale 1",
+        "author": "Umberto Eco",
+        "year": 2023,
+        "available": true
+    },
+    {
+        "id": 74,
+        "title": "La profezia finale 2",
+        "author": "J. R. R. Tolkien",
+        "year": 1858,
+        "available": true
+    },
+    {
+        "id": 75,
+        "title": "Le cronache del fuoco 5",
+        "author": "Rick Riordan",
+        "year": 2025,
+        "available": false
+    },
+    {
+        "id": 76,
+        "title": "La luce delle stelle 1",
+        "author": "Rick Riordan",
+        "year": 1912,
+        "available": true
+    },
+    {
+        "id": 77,
+        "title": "Le cronache del fuoco 5",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1894,
+        "available": false
+    },
+    {
+        "id": 78,
+        "title": "Il castello dimenticato 4",
+        "author": "George R. R. Martin",
+        "year": 1892,
+        "available": false
+    },
+    {
+        "id": 79,
+        "title": "Il risveglio del drago 3",
+        "author": "Stephen King",
+        "year": 1986,
+        "available": true
+    },
+    {
+        "id": 80,
+        "title": "Il castello dimenticato 4",
+        "author": "George R. R. Martin",
+        "year": 2012,
+        "available": false
+    },
+    {
+        "id": 81,
+        "title": "Il castello dimenticato 5",
+        "author": "Rick Riordan",
+        "year": 1896,
+        "available": true
+    },
+    {
+        "id": 82,
+        "title": "La profezia finale 3",
+        "author": "Rick Riordan",
+        "year": 1953,
+        "available": false
+    },
+    {
+        "id": 83,
+        "title": "Il regno perduto 3",
+        "author": "George R. R. Martin",
+        "year": 2010,
+        "available": true
+    },
+    {
+        "id": 84,
+        "title": "Il regno perduto 5",
+        "author": "Isaac Asimov",
+        "year": 1917,
+        "available": true
+    },
+    {
+        "id": 85,
+        "title": "Il segreto del tempo 1",
+        "author": "Jane Austen",
+        "year": 1957,
+        "available": true
+    },
+    {
+        "id": 86,
+        "title": "Il regno perduto 2",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1962,
+        "available": false
+    },
+    {
+        "id": 87,
+        "title": "Il castello dimenticato 4",
+        "author": "J. R. R. Tolkien",
+        "year": 1916,
+        "available": false
+    },
+    {
+        "id": 88,
+        "title": "Le cronache del fuoco 2",
+        "author": "Stephen King",
+        "year": 1881,
+        "available": false
+    },
+    {
+        "id": 89,
+        "title": "Il segreto del tempo 2",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1969,
+        "available": false
+    },
+    {
+        "id": 90,
+        "title": "L’ombra del passato 2",
+        "author": "Jane Austen",
+        "year": 1906,
+        "available": false
+    },
+    {
+        "id": 91,
+        "title": "Il segreto del tempo 5",
+        "author": "Jane Austen",
+        "year": 1994,
+        "available": true
+    },
+    {
+        "id": 92,
+        "title": "La vendetta del mago 4",
+        "author": "Rick Riordan",
+        "year": 1920,
+        "available": true
+    },
+    {
+        "id": 93,
+        "title": "Il regno perduto 2",
+        "author": "George Orwell",
+        "year": 1995,
+        "available": false
+    },
+    {
+        "id": 94,
+        "title": "Il segreto del tempo 3",
+        "author": "Isaac Asimov",
+        "year": 1997,
+        "available": false
+    },
+    {
+        "id": 95,
+        "title": "Le cronache del fuoco 1",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1866,
+        "available": false
+    },
+    {
+        "id": 96,
+        "title": "Le cronache del fuoco 3",
+        "author": "Isaac Asimov",
+        "year": 2005,
+        "available": true
+    },
+    {
+        "id": 97,
+        "title": "Il castello dimenticato 1",
+        "author": "J. K. Rowling",
+        "year": 1884,
+        "available": true
+    },
+    {
+        "id": 98,
+        "title": "Le cronache del fuoco 2",
+        "author": "George R. R. Martin",
+        "year": 1941,
+        "available": false
+    },
+    {
+        "id": 99,
+        "title": "Il regno perduto 3",
+        "author": "George Orwell",
+        "year": 1890,
+        "available": false
+    },
+    {
+        "id": 100,
+        "title": "La luce delle stelle 2",
+        "author": "J. K. Rowling",
+        "year": 1932,
+        "available": false
+    },
+    {
+        "id": 101,
+        "title": "Le cronache del fuoco 4",
+        "author": "Isaac Asimov",
+        "year": 1907,
+        "available": false
+    },
+    {
+        "id": 102,
+        "title": "La luce delle stelle 3",
+        "author": "J. R. R. Tolkien",
+        "year": 1853,
+        "available": false
+    },
+    {
+        "id": 103,
+        "title": "Il regno perduto 1",
+        "author": "Isaac Asimov",
+        "year": 2018,
+        "available": false
+    },
+    {
+        "id": 104,
+        "title": "La profezia finale 4",
+        "author": "Rick Riordan",
+        "year": 2024,
+        "available": true
+    },
+    {
+        "id": 105,
+        "title": "Il castello dimenticato 5",
+        "author": "Jane Austen",
+        "year": 1945,
+        "available": true
+    },
+    {
+        "id": 106,
+        "title": "Le cronache del fuoco 3",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1935,
+        "available": true
+    },
+    {
+        "id": 107,
+        "title": "Il castello dimenticato 2",
+        "author": "Rick Riordan",
+        "year": 1985,
+        "available": true
+    },
+    {
+        "id": 108,
+        "title": "La profezia finale 5",
+        "author": "J. R. R. Tolkien",
+        "year": 1899,
+        "available": false
+    },
+    {
+        "id": 109,
+        "title": "Il castello dimenticato 2",
+        "author": "Umberto Eco",
+        "year": 1889,
+        "available": true
+    },
+    {
+        "id": 110,
+        "title": "Le cronache del fuoco 2",
+        "author": "Jane Austen",
+        "year": 1983,
+        "available": false
+    },
+    {
+        "id": 111,
+        "title": "La vendetta del mago 3",
+        "author": "J. R. R. Tolkien",
+        "year": 2025,
+        "available": true
+    },
+    {
+        "id": 112,
+        "title": "La profezia finale 5",
+        "author": "George R. R. Martin",
+        "year": 1980,
+        "available": true
+    },
+    {
+        "id": 113,
+        "title": "La profezia finale 5",
+        "author": "George Orwell",
+        "year": 2002,
+        "available": false
+    },
+    {
+        "id": 114,
+        "title": "Il segreto del tempo 3",
+        "author": "George Orwell",
+        "year": 1892,
+        "available": false
+    },
+    {
+        "id": 115,
+        "title": "L’ultimo guardiano 5",
+        "author": "Stephen King",
+        "year": 1976,
+        "available": true
+    },
+    {
+        "id": 116,
+        "title": "Le cronache del fuoco 1",
+        "author": "Rick Riordan",
+        "year": 1997,
+        "available": false
+    },
+    {
+        "id": 117,
+        "title": "L’ombra del passato 4",
+        "author": "Isaac Asimov",
+        "year": 1887,
+        "available": false
+    },
+    {
+        "id": 118,
+        "title": "Le cronache del fuoco 4",
+        "author": "George R. R. Martin",
+        "year": 1911,
+        "available": false
+    },
+    {
+        "id": 119,
+        "title": "Il regno perduto 1",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1900,
+        "available": true
+    },
+    {
+        "id": 120,
+        "title": "Il castello dimenticato 3",
+        "author": "Stephen King",
+        "year": 1969,
+        "available": false
+    },
+    {
+        "id": 121,
+        "title": "Le cronache del fuoco 5",
+        "author": "Umberto Eco",
+        "year": 1980,
+        "available": true
+    },
+    {
+        "id": 122,
+        "title": "Il castello dimenticato 1",
+        "author": "Stephen King",
+        "year": 1851,
+        "available": false
+    },
+    {
+        "id": 123,
+        "title": "Il risveglio del drago 3",
+        "author": "J. K. Rowling",
+        "year": 1850,
+        "available": false
+    },
+    {
+        "id": 124,
+        "title": "L’ombra del passato 4",
+        "author": "Isaac Asimov",
+        "year": 1912,
+        "available": false
+    },
+    {
+        "id": 125,
+        "title": "Il risveglio del drago 1",
+        "author": "Jane Austen",
+        "year": 1895,
+        "available": true
+    },
+    {
+        "id": 126,
+        "title": "L’ultimo guardiano 1",
+        "author": "Stephen King",
+        "year": 1955,
+        "available": false
+    },
+    {
+        "id": 127,
+        "title": "L’ultimo guardiano 1",
+        "author": "George R. R. Martin",
+        "year": 1974,
+        "available": true
+    },
+    {
+        "id": 128,
+        "title": "La vendetta del mago 2",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1929,
+        "available": false
+    },
+    {
+        "id": 129,
+        "title": "L’ombra del passato 2",
+        "author": "George R. R. Martin",
+        "year": 1973,
+        "available": false
+    },
+    {
+        "id": 130,
+        "title": "La vendetta del mago 5",
+        "author": "Isaac Asimov",
+        "year": 1973,
+        "available": true
+    },
+    {
+        "id": 131,
+        "title": "La luce delle stelle 5",
+        "author": "Umberto Eco",
+        "year": 1883,
+        "available": false
+    },
+    {
+        "id": 132,
+        "title": "Il segreto del tempo 2",
+        "author": "J. R. R. Tolkien",
+        "year": 1927,
+        "available": true
+    },
+    {
+        "id": 133,
+        "title": "Il castello dimenticato 4",
+        "author": "George R. R. Martin",
+        "year": 1915,
+        "available": true
+    },
+    {
+        "id": 134,
+        "title": "Il castello dimenticato 2",
+        "author": "George Orwell",
+        "year": 1977,
+        "available": false
+    },
+    {
+        "id": 135,
+        "title": "L’ultimo guardiano 1",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1970,
+        "available": true
+    },
+    {
+        "id": 136,
+        "title": "La vendetta del mago 5",
+        "author": "George R. R. Martin",
+        "year": 1867,
+        "available": false
+    },
+    {
+        "id": 137,
+        "title": "Il risveglio del drago 4",
+        "author": "Jane Austen",
+        "year": 1913,
+        "available": false
+    },
+    {
+        "id": 138,
+        "title": "Le cronache del fuoco 5",
+        "author": "Isaac Asimov",
+        "year": 1884,
+        "available": false
+    },
+    {
+        "id": 139,
+        "title": "Il segreto del tempo 4",
+        "author": "George R. R. Martin",
+        "year": 1893,
+        "available": false
+    },
+    {
+        "id": 140,
+        "title": "Il risveglio del drago 2",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 2011,
+        "available": false
+    },
+    {
+        "id": 141,
+        "title": "La luce delle stelle 5",
+        "author": "Umberto Eco",
+        "year": 1947,
+        "available": false
+    },
+    {
+        "id": 142,
+        "title": "La vendetta del mago 2",
+        "author": "Umberto Eco",
+        "year": 1876,
+        "available": true
+    },
+    {
+        "id": 143,
+        "title": "La vendetta del mago 2",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1994,
+        "available": true
+    },
+    {
+        "id": 144,
+        "title": "Il segreto del tempo 4",
+        "author": "George Orwell",
+        "year": 1934,
+        "available": false
+    },
+    {
+        "id": 145,
+        "title": "Le cronache del fuoco 4",
+        "author": "Umberto Eco",
+        "year": 1883,
+        "available": false
+    },
+    {
+        "id": 146,
+        "title": "Le cronache del fuoco 3",
+        "author": "J. K. Rowling",
+        "year": 1962,
+        "available": false
+    },
+    {
+        "id": 147,
+        "title": "La luce delle stelle 2",
+        "author": "Rick Riordan",
+        "year": 1873,
+        "available": true
+    },
+    {
+        "id": 148,
+        "title": "La luce delle stelle 3",
+        "author": "J. R. R. Tolkien",
+        "year": 1889,
+        "available": true
+    },
+    {
+        "id": 149,
+        "title": "Il castello dimenticato 1",
+        "author": "Stephen King",
+        "year": 1855,
+        "available": false
+    },
+    {
+        "id": 150,
+        "title": "La vendetta del mago 5",
+        "author": "Isaac Asimov",
+        "year": 1863,
+        "available": false
+    },
+    {
+        "id": 151,
+        "title": "La luce delle stelle 3",
+        "author": "George R. R. Martin",
+        "year": 1912,
+        "available": false
+    },
+    {
+        "id": 152,
+        "title": "L’ultimo guardiano 1",
+        "author": "J. R. R. Tolkien",
+        "year": 1885,
+        "available": true
+    },
+    {
+        "id": 153,
+        "title": "La vendetta del mago 2",
+        "author": "J. K. Rowling",
+        "year": 1857,
+        "available": true
+    },
+    {
+        "id": 154,
+        "title": "La luce delle stelle 3",
+        "author": "George Orwell",
+        "year": 1912,
+        "available": false
+    },
+    {
+        "id": 155,
+        "title": "La profezia finale 4",
+        "author": "George Orwell",
+        "year": 1990,
+        "available": true
+    },
+    {
+        "id": 156,
+        "title": "Le cronache del fuoco 4",
+        "author": "George Orwell",
+        "year": 1968,
+        "available": true
+    },
+    {
+        "id": 157,
+        "title": "Il castello dimenticato 2",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1998,
+        "available": false
+    },
+    {
+        "id": 158,
+        "title": "L’ultimo guardiano 3",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1873,
+        "available": true
+    },
+    {
+        "id": 159,
+        "title": "L’ombra del passato 1",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1944,
+        "available": false
+    },
+    {
+        "id": 160,
+        "title": "Il regno perduto 2",
+        "author": "J. K. Rowling",
+        "year": 1961,
+        "available": false
+    },
+    {
+        "id": 161,
+        "title": "Il risveglio del drago 2",
+        "author": "Isaac Asimov",
+        "year": 2003,
+        "available": true
+    },
+    {
+        "id": 162,
+        "title": "L’ultimo guardiano 2",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1958,
+        "available": true
+    },
+    {
+        "id": 163,
+        "title": "La profezia finale 5",
+        "author": "Stephen King",
+        "year": 1920,
+        "available": true
+    },
+    {
+        "id": 164,
+        "title": "Il castello dimenticato 1",
+        "author": "Rick Riordan",
+        "year": 1893,
+        "available": true
+    },
+    {
+        "id": 165,
+        "title": "Il risveglio del drago 5",
+        "author": "Stephen King",
+        "year": 1888,
+        "available": true
+    },
+    {
+        "id": 166,
+        "title": "La luce delle stelle 5",
+        "author": "George Orwell",
+        "year": 1942,
+        "available": true
+    },
+    {
+        "id": 167,
+        "title": "Il regno perduto 2",
+        "author": "Stephen King",
+        "year": 1983,
+        "available": true
+    },
+    {
+        "id": 168,
+        "title": "L’ombra del passato 5",
+        "author": "Jane Austen",
+        "year": 1895,
+        "available": false
+    },
+    {
+        "id": 169,
+        "title": "L’ultimo guardiano 2",
+        "author": "George Orwell",
+        "year": 1912,
+        "available": true
+    },
+    {
+        "id": 170,
+        "title": "La vendetta del mago 2",
+        "author": "Jane Austen",
+        "year": 1932,
+        "available": true
+    },
+    {
+        "id": 171,
+        "title": "Il regno perduto 5",
+        "author": "Stephen King",
+        "year": 1932,
+        "available": false
+    },
+    {
+        "id": 172,
+        "title": "Il regno perduto 1",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1922,
+        "available": false
+    },
+    {
+        "id": 173,
+        "title": "La vendetta del mago 1",
+        "author": "Stephen King",
+        "year": 2012,
+        "available": false
+    },
+    {
+        "id": 174,
+        "title": "L’ultimo guardiano 2",
+        "author": "George R. R. Martin",
+        "year": 1899,
+        "available": false
+    },
+    {
+        "id": 175,
+        "title": "Il segreto del tempo 1",
+        "author": "Umberto Eco",
+        "year": 1984,
+        "available": true
+    },
+    {
+        "id": 176,
+        "title": "La vendetta del mago 5",
+        "author": "Jane Austen",
+        "year": 1853,
+        "available": false
+    },
+    {
+        "id": 177,
+        "title": "Il regno perduto 3",
+        "author": "Stephen King",
+        "year": 1859,
+        "available": false
+    },
+    {
+        "id": 178,
+        "title": "La vendetta del mago 2",
+        "author": "George Orwell",
+        "year": 1880,
+        "available": true
+    },
+    {
+        "id": 179,
+        "title": "La luce delle stelle 2",
+        "author": "Umberto Eco",
+        "year": 2019,
+        "available": true
+    },
+    {
+        "id": 180,
+        "title": "La profezia finale 1",
+        "author": "George R. R. Martin",
+        "year": 2012,
+        "available": false
+    },
+    {
+        "id": 181,
+        "title": "Il risveglio del drago 5",
+        "author": "Umberto Eco",
+        "year": 1895,
+        "available": true
+    },
+    {
+        "id": 182,
+        "title": "Il risveglio del drago 2",
+        "author": "Umberto Eco",
+        "year": 1956,
+        "available": true
+    },
+    {
+        "id": 183,
+        "title": "Il regno perduto 3",
+        "author": "Umberto Eco",
+        "year": 1888,
+        "available": false
+    },
+    {
+        "id": 184,
+        "title": "L’ultimo guardiano 1",
+        "author": "Stephen King",
+        "year": 1902,
+        "available": false
+    },
+    {
+        "id": 185,
+        "title": "Il regno perduto 4",
+        "author": "George Orwell",
+        "year": 1852,
+        "available": false
+    },
+    {
+        "id": 186,
+        "title": "La profezia finale 5",
+        "author": "Isaac Asimov",
+        "year": 1923,
+        "available": false
+    },
+    {
+        "id": 187,
+        "title": "Il segreto del tempo 5",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1960,
+        "available": false
+    },
+    {
+        "id": 188,
+        "title": "L’ultimo guardiano 2",
+        "author": "Rick Riordan",
+        "year": 1965,
+        "available": false
+    },
+    {
+        "id": 189,
+        "title": "Il regno perduto 4",
+        "author": "Rick Riordan",
+        "year": 2014,
+        "available": false
+    },
+    {
+        "id": 190,
+        "title": "L’ultimo guardiano 4",
+        "author": "J. R. R. Tolkien",
+        "year": 2001,
+        "available": true
+    },
+    {
+        "id": 191,
+        "title": "La vendetta del mago 5",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1936,
+        "available": true
+    },
+    {
+        "id": 192,
+        "title": "Il risveglio del drago 3",
+        "author": "Isaac Asimov",
+        "year": 1861,
+        "available": false
+    },
+    {
+        "id": 193,
+        "title": "Il risveglio del drago 5",
+        "author": "George Orwell",
+        "year": 1926,
+        "available": true
+    },
+    {
+        "id": 194,
+        "title": "Le cronache del fuoco 3",
+        "author": "Isaac Asimov",
+        "year": 1865,
+        "available": true
+    },
+    {
+        "id": 195,
+        "title": "Il segreto del tempo 2",
+        "author": "J. K. Rowling",
+        "year": 1925,
+        "available": true
+    },
+    {
+        "id": 196,
+        "title": "Il regno perduto 5",
+        "author": "George R. R. Martin",
+        "year": 2011,
+        "available": false
+    },
+    {
+        "id": 197,
+        "title": "La luce delle stelle 3",
+        "author": "Umberto Eco",
+        "year": 1984,
+        "available": false
+    },
+    {
+        "id": 198,
+        "title": "L’ultimo guardiano 5",
+        "author": "Stephen King",
+        "year": 1956,
+        "available": false
+    },
+    {
+        "id": 199,
+        "title": "Le cronache del fuoco 5",
+        "author": "Umberto Eco",
+        "year": 2002,
+        "available": false
+    },
+    {
+        "id": 200,
+        "title": "Il regno perduto 5",
+        "author": "Stephen King",
+        "year": 1870,
+        "available": true
+    },
+    {
+        "id": 201,
+        "title": "Il regno perduto 4",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1868,
+        "available": true
+    },
+    {
+        "id": 202,
+        "title": "Le cronache del fuoco 5",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1862,
+        "available": true
+    },
+    {
+        "id": 203,
+        "title": "L’ultimo guardiano 5",
+        "author": "Stephen King",
+        "year": 1914,
+        "available": false
+    },
+    {
+        "id": 204,
+        "title": "Il regno perduto 4",
+        "author": "Umberto Eco",
+        "year": 1861,
+        "available": false
+    },
+    {
+        "id": 205,
+        "title": "La luce delle stelle 5",
+        "author": "Isaac Asimov",
+        "year": 1939,
+        "available": true
+    },
+    {
+        "id": 206,
+        "title": "La luce delle stelle 3",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1916,
+        "available": false
+    },
+    {
+        "id": 207,
+        "title": "Il regno perduto 1",
+        "author": "Stephen King",
+        "year": 1905,
+        "available": true
+    },
+    {
+        "id": 208,
+        "title": "Il risveglio del drago 1",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 2007,
+        "available": true
+    },
+    {
+        "id": 209,
+        "title": "La vendetta del mago 1",
+        "author": "Rick Riordan",
+        "year": 1951,
+        "available": false
+    },
+    {
+        "id": 210,
+        "title": "La luce delle stelle 2",
+        "author": "Rick Riordan",
+        "year": 1964,
+        "available": true
+    },
+    {
+        "id": 211,
+        "title": "Il risveglio del drago 5",
+        "author": "Isaac Asimov",
+        "year": 1879,
+        "available": false
+    },
+    {
+        "id": 212,
+        "title": "La luce delle stelle 2",
+        "author": "Umberto Eco",
+        "year": 1880,
+        "available": false
+    },
+    {
+        "id": 213,
+        "title": "Le cronache del fuoco 1",
+        "author": "Isaac Asimov",
+        "year": 2002,
+        "available": false
+    },
+    {
+        "id": 214,
+        "title": "La luce delle stelle 1",
+        "author": "George Orwell",
+        "year": 2019,
+        "available": false
+    },
+    {
+        "id": 215,
+        "title": "Il segreto del tempo 2",
+        "author": "Stephen King",
+        "year": 1894,
+        "available": false
+    },
+    {
+        "id": 216,
+        "title": "Il castello dimenticato 5",
+        "author": "Umberto Eco",
+        "year": 1923,
+        "available": false
+    },
+    {
+        "id": 217,
+        "title": "La vendetta del mago 3",
+        "author": "Jane Austen",
+        "year": 1907,
+        "available": true
+    },
+    {
+        "id": 218,
+        "title": "Il castello dimenticato 1",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1869,
+        "available": false
+    },
+    {
+        "id": 219,
+        "title": "Il segreto del tempo 2",
+        "author": "Umberto Eco",
+        "year": 1859,
+        "available": false
+    },
+    {
+        "id": 220,
+        "title": "La vendetta del mago 3",
+        "author": "J. R. R. Tolkien",
+        "year": 1988,
+        "available": true
+    },
+    {
+        "id": 221,
+        "title": "La luce delle stelle 5",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1904,
+        "available": true
+    },
+    {
+        "id": 222,
+        "title": "L’ultimo guardiano 3",
+        "author": "J. R. R. Tolkien",
+        "year": 1921,
+        "available": true
+    },
+    {
+        "id": 223,
+        "title": "L’ultimo guardiano 4",
+        "author": "George Orwell",
+        "year": 1885,
+        "available": false
+    },
+    {
+        "id": 224,
+        "title": "Il segreto del tempo 1",
+        "author": "Stephen King",
+        "year": 1934,
+        "available": false
+    },
+    {
+        "id": 225,
+        "title": "Le cronache del fuoco 5",
+        "author": "Jane Austen",
+        "year": 2015,
+        "available": true
+    },
+    {
+        "id": 226,
+        "title": "Il castello dimenticato 1",
+        "author": "Isaac Asimov",
+        "year": 1910,
+        "available": false
+    },
+    {
+        "id": 227,
+        "title": "Il regno perduto 1",
+        "author": "J. K. Rowling",
+        "year": 1920,
+        "available": true
+    },
+    {
+        "id": 228,
+        "title": "Il castello dimenticato 3",
+        "author": "Isaac Asimov",
+        "year": 1929,
+        "available": false
+    },
+    {
+        "id": 229,
+        "title": "Le cronache del fuoco 2",
+        "author": "Stephen King",
+        "year": 1992,
+        "available": false
+    },
+    {
+        "id": 230,
+        "title": "Il segreto del tempo 4",
+        "author": "Umberto Eco",
+        "year": 1899,
+        "available": false
+    },
+    {
+        "id": 231,
+        "title": "La vendetta del mago 4",
+        "author": "George R. R. Martin",
+        "year": 1879,
+        "available": true
+    },
+    {
+        "id": 232,
+        "title": "Le cronache del fuoco 1",
+        "author": "Isaac Asimov",
+        "year": 1977,
+        "available": true
+    },
+    {
+        "id": 233,
+        "title": "L’ultimo guardiano 1",
+        "author": "Stephen King",
+        "year": 1919,
+        "available": false
+    },
+    {
+        "id": 234,
+        "title": "La profezia finale 4",
+        "author": "George R. R. Martin",
+        "year": 1937,
+        "available": false
+    },
+    {
+        "id": 235,
+        "title": "La profezia finale 3",
+        "author": "George R. R. Martin",
+        "year": 1909,
+        "available": false
+    },
+    {
+        "id": 236,
+        "title": "L’ombra del passato 4",
+        "author": "J. K. Rowling",
+        "year": 1963,
+        "available": true
+    },
+    {
+        "id": 237,
+        "title": "L’ombra del passato 4",
+        "author": "Isaac Asimov",
+        "year": 2015,
+        "available": false
+    },
+    {
+        "id": 238,
+        "title": "Il castello dimenticato 4",
+        "author": "George Orwell",
+        "year": 1981,
+        "available": true
+    },
+    {
+        "id": 239,
+        "title": "L’ultimo guardiano 5",
+        "author": "Rick Riordan",
+        "year": 1941,
+        "available": true
+    },
+    {
+        "id": 240,
+        "title": "Il regno perduto 5",
+        "author": "Rick Riordan",
+        "year": 1851,
+        "available": false
+    },
+    {
+        "id": 241,
+        "title": "Il regno perduto 3",
+        "author": "Jane Austen",
+        "year": 1984,
+        "available": true
+    },
+    {
+        "id": 242,
+        "title": "Il castello dimenticato 1",
+        "author": "George R. R. Martin",
+        "year": 1885,
+        "available": true
+    },
+    {
+        "id": 243,
+        "title": "La profezia finale 2",
+        "author": "George Orwell",
+        "year": 1862,
+        "available": true
+    },
+    {
+        "id": 244,
+        "title": "Il risveglio del drago 4",
+        "author": "Jane Austen",
+        "year": 1880,
+        "available": false
+    },
+    {
+        "id": 245,
+        "title": "L’ultimo guardiano 2",
+        "author": "Umberto Eco",
+        "year": 1952,
+        "available": false
+    },
+    {
+        "id": 246,
+        "title": "Il risveglio del drago 1",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1884,
+        "available": false
+    },
+    {
+        "id": 247,
+        "title": "Il risveglio del drago 3",
+        "author": "Rick Riordan",
+        "year": 1996,
+        "available": false
+    },
+    {
+        "id": 248,
+        "title": "La luce delle stelle 4",
+        "author": "Umberto Eco",
+        "year": 1971,
+        "available": true
+    },
+    {
+        "id": 249,
+        "title": "Il segreto del tempo 2",
+        "author": "Umberto Eco",
+        "year": 1863,
+        "available": true
+    },
+    {
+        "id": 250,
+        "title": "Il segreto del tempo 2",
+        "author": "Umberto Eco",
+        "year": 2024,
+        "available": true
+    },
+    {
+        "id": 251,
+        "title": "Il castello dimenticato 2",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1976,
+        "available": false
+    },
+    {
+        "id": 252,
+        "title": "Il regno perduto 3",
+        "author": "J. R. R. Tolkien",
+        "year": 1855,
+        "available": false
+    },
+    {
+        "id": 253,
+        "title": "Le cronache del fuoco 5",
+        "author": "Jane Austen",
+        "year": 1910,
+        "available": true
+    },
+    {
+        "id": 254,
+        "title": "La vendetta del mago 1",
+        "author": "Rick Riordan",
+        "year": 1965,
+        "available": true
+    },
+    {
+        "id": 255,
+        "title": "L’ultimo guardiano 2",
+        "author": "George R. R. Martin",
+        "year": 1944,
+        "available": false
+    },
+    {
+        "id": 256,
+        "title": "Il segreto del tempo 4",
+        "author": "George R. R. Martin",
+        "year": 1973,
+        "available": true
+    },
+    {
+        "id": 257,
+        "title": "La vendetta del mago 4",
+        "author": "Stephen King",
+        "year": 1913,
+        "available": false
+    },
+    {
+        "id": 258,
+        "title": "Le cronache del fuoco 5",
+        "author": "Stephen King",
+        "year": 1956,
+        "available": true
+    },
+    {
+        "id": 259,
+        "title": "L’ultimo guardiano 3",
+        "author": "Rick Riordan",
+        "year": 1996,
+        "available": true
+    },
+    {
+        "id": 260,
+        "title": "La luce delle stelle 1",
+        "author": "Stephen King",
+        "year": 1970,
+        "available": true
+    },
+    {
+        "id": 261,
+        "title": "L’ultimo guardiano 1",
+        "author": "J. K. Rowling",
+        "year": 1865,
+        "available": false
+    },
+    {
+        "id": 262,
+        "title": "La vendetta del mago 1",
+        "author": "J. R. R. Tolkien",
+        "year": 2000,
+        "available": true
+    },
+    {
+        "id": 263,
+        "title": "Il segreto del tempo 5",
+        "author": "J. K. Rowling",
+        "year": 1982,
+        "available": false
+    },
+    {
+        "id": 264,
+        "title": "Il segreto del tempo 2",
+        "author": "George R. R. Martin",
+        "year": 1890,
+        "available": true
+    },
+    {
+        "id": 265,
+        "title": "La vendetta del mago 1",
+        "author": "George Orwell",
+        "year": 1873,
+        "available": false
+    },
+    {
+        "id": 266,
+        "title": "Il castello dimenticato 5",
+        "author": "Umberto Eco",
+        "year": 1862,
+        "available": true
+    },
+    {
+        "id": 267,
+        "title": "Il regno perduto 4",
+        "author": "Umberto Eco",
+        "year": 1984,
+        "available": false
+    },
+    {
+        "id": 268,
+        "title": "Il regno perduto 5",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1963,
+        "available": false
+    },
+    {
+        "id": 269,
+        "title": "La luce delle stelle 5",
+        "author": "George R. R. Martin",
+        "year": 1976,
+        "available": true
+    },
+    {
+        "id": 270,
+        "title": "Il castello dimenticato 1",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1956,
+        "available": false
+    },
+    {
+        "id": 271,
+        "title": "L’ultimo guardiano 2",
+        "author": "George Orwell",
+        "year": 1880,
+        "available": true
+    },
+    {
+        "id": 272,
+        "title": "Il castello dimenticato 3",
+        "author": "Jane Austen",
+        "year": 1866,
+        "available": true
+    },
+    {
+        "id": 273,
+        "title": "Il risveglio del drago 3",
+        "author": "George Orwell",
+        "year": 1904,
+        "available": false
+    },
+    {
+        "id": 274,
+        "title": "Il segreto del tempo 5",
+        "author": "Rick Riordan",
+        "year": 1878,
+        "available": false
+    },
+    {
+        "id": 275,
+        "title": "L’ultimo guardiano 2",
+        "author": "Isaac Asimov",
+        "year": 1853,
+        "available": false
+    },
+    {
+        "id": 276,
+        "title": "La luce delle stelle 1",
+        "author": "Isaac Asimov",
+        "year": 1919,
+        "available": true
+    },
+    {
+        "id": 277,
+        "title": "Il castello dimenticato 1",
+        "author": "J. K. Rowling",
+        "year": 1872,
+        "available": false
+    },
+    {
+        "id": 278,
+        "title": "La profezia finale 1",
+        "author": "George R. R. Martin",
+        "year": 1954,
+        "available": false
+    },
+    {
+        "id": 279,
+        "title": "Il risveglio del drago 3",
+        "author": "George R. R. Martin",
+        "year": 1885,
+        "available": false
+    },
+    {
+        "id": 280,
+        "title": "L’ombra del passato 3",
+        "author": "George Orwell",
+        "year": 1982,
+        "available": true
+    },
+    {
+        "id": 281,
+        "title": "Il castello dimenticato 4",
+        "author": "George R. R. Martin",
+        "year": 1985,
+        "available": false
+    },
+    {
+        "id": 282,
+        "title": "L’ombra del passato 1",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1946,
+        "available": true
+    },
+    {
+        "id": 283,
+        "title": "La vendetta del mago 1",
+        "author": "Isaac Asimov",
+        "year": 1861,
+        "available": true
+    },
+    {
+        "id": 284,
+        "title": "Il castello dimenticato 5",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1957,
+        "available": true
+    },
+    {
+        "id": 285,
+        "title": "L’ultimo guardiano 5",
+        "author": "George R. R. Martin",
+        "year": 1936,
+        "available": true
+    },
+    {
+        "id": 286,
+        "title": "La vendetta del mago 5",
+        "author": "George R. R. Martin",
+        "year": 1908,
+        "available": false
+    },
+    {
+        "id": 287,
+        "title": "Il castello dimenticato 5",
+        "author": "Rick Riordan",
+        "year": 1851,
+        "available": true
+    },
+    {
+        "id": 288,
+        "title": "La vendetta del mago 1",
+        "author": "George Orwell",
+        "year": 1937,
+        "available": false
+    },
+    {
+        "id": 289,
+        "title": "L’ombra del passato 4",
+        "author": "Isaac Asimov",
+        "year": 1987,
+        "available": false
+    },
+    {
+        "id": 290,
+        "title": "Il castello dimenticato 5",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1871,
+        "available": false
+    },
+    {
+        "id": 291,
+        "title": "La luce delle stelle 2",
+        "author": "Stephen King",
+        "year": 1907,
+        "available": false
+    },
+    {
+        "id": 292,
+        "title": "Le cronache del fuoco 5",
+        "author": "Umberto Eco",
+        "year": 1992,
+        "available": false
+    },
+    {
+        "id": 293,
+        "title": "L’ombra del passato 1",
+        "author": "Umberto Eco",
+        "year": 1939,
+        "available": true
+    },
+    {
+        "id": 294,
+        "title": "Il segreto del tempo 4",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1968,
+        "available": false
+    },
+    {
+        "id": 295,
+        "title": "Il segreto del tempo 2",
+        "author": "Stephen King",
+        "year": 1999,
+        "available": true
+    },
+    {
+        "id": 296,
+        "title": "L’ombra del passato 5",
+        "author": "George Orwell",
+        "year": 1947,
+        "available": false
+    },
+    {
+        "id": 297,
+        "title": "Il castello dimenticato 1",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1958,
+        "available": false
+    },
+    {
+        "id": 298,
+        "title": "Le cronache del fuoco 2",
+        "author": "Umberto Eco",
+        "year": 1945,
+        "available": false
+    },
+    {
+        "id": 299,
+        "title": "La luce delle stelle 2",
+        "author": "Rick Riordan",
+        "year": 1992,
+        "available": true
+    },
+    {
+        "id": 300,
+        "title": "Il castello dimenticato 2",
+        "author": "J. R. R. Tolkien",
+        "year": 1863,
+        "available": false
+    },
+    {
+        "id": 301,
+        "title": "L’ombra del passato 1",
+        "author": "Rick Riordan",
+        "year": 1917,
+        "available": false
+    },
+    {
+        "id": 302,
+        "title": "Il castello dimenticato 1",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1881,
+        "available": false
+    },
+    {
+        "id": 303,
+        "title": "L’ombra del passato 2",
+        "author": "George Orwell",
+        "year": 1923,
+        "available": false
+    },
+    {
+        "id": 304,
+        "title": "Il castello dimenticato 2",
+        "author": "George R. R. Martin",
+        "year": 1902,
+        "available": false
+    },
+    {
+        "id": 305,
+        "title": "La profezia finale 4",
+        "author": "Umberto Eco",
+        "year": 1928,
+        "available": false
+    },
+    {
+        "id": 306,
+        "title": "La vendetta del mago 5",
+        "author": "Stephen King",
+        "year": 1959,
+        "available": false
+    },
+    {
+        "id": 307,
+        "title": "Le cronache del fuoco 5",
+        "author": "George R. R. Martin",
+        "year": 1895,
+        "available": true
+    },
+    {
+        "id": 308,
+        "title": "Il risveglio del drago 1",
+        "author": "Stephen King",
+        "year": 1971,
+        "available": false
+    },
+    {
+        "id": 309,
+        "title": "La vendetta del mago 5",
+        "author": "Jane Austen",
+        "year": 1854,
+        "available": true
+    },
+    {
+        "id": 310,
+        "title": "La luce delle stelle 3",
+        "author": "Umberto Eco",
+        "year": 1892,
+        "available": false
+    },
+    {
+        "id": 311,
+        "title": "Il castello dimenticato 5",
+        "author": "J. K. Rowling",
+        "year": 1998,
+        "available": true
+    },
+    {
+        "id": 312,
+        "title": "Il segreto del tempo 5",
+        "author": "Rick Riordan",
+        "year": 1854,
+        "available": true
+    },
+    {
+        "id": 313,
+        "title": "La vendetta del mago 3",
+        "author": "Umberto Eco",
+        "year": 1946,
+        "available": true
+    },
+    {
+        "id": 314,
+        "title": "L’ombra del passato 3",
+        "author": "George Orwell",
+        "year": 1979,
+        "available": true
+    },
+    {
+        "id": 315,
+        "title": "La profezia finale 5",
+        "author": "Rick Riordan",
+        "year": 1881,
+        "available": true
+    },
+    {
+        "id": 316,
+        "title": "La profezia finale 4",
+        "author": "Rick Riordan",
+        "year": 2000,
+        "available": false
+    },
+    {
+        "id": 317,
+        "title": "Il castello dimenticato 2",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1921,
+        "available": false
+    },
+    {
+        "id": 318,
+        "title": "Il segreto del tempo 5",
+        "author": "Isaac Asimov",
+        "year": 1946,
+        "available": true
+    },
+    {
+        "id": 319,
+        "title": "Il segreto del tempo 2",
+        "author": "J. R. R. Tolkien",
+        "year": 1932,
+        "available": false
+    },
+    {
+        "id": 320,
+        "title": "L’ombra del passato 1",
+        "author": "Rick Riordan",
+        "year": 1918,
+        "available": true
+    },
+    {
+        "id": 321,
+        "title": "Le cronache del fuoco 4",
+        "author": "Jane Austen",
+        "year": 1902,
+        "available": false
+    },
+    {
+        "id": 322,
+        "title": "La profezia finale 1",
+        "author": "Rick Riordan",
+        "year": 2005,
+        "available": false
+    },
+    {
+        "id": 323,
+        "title": "Le cronache del fuoco 2",
+        "author": "Stephen King",
+        "year": 1971,
+        "available": false
+    },
+    {
+        "id": 324,
+        "title": "Il segreto del tempo 4",
+        "author": "George Orwell",
+        "year": 1886,
+        "available": false
+    },
+    {
+        "id": 325,
+        "title": "Le cronache del fuoco 3",
+        "author": "Stephen King",
+        "year": 1853,
+        "available": false
+    },
+    {
+        "id": 326,
+        "title": "La luce delle stelle 4",
+        "author": "J. R. R. Tolkien",
+        "year": 1870,
+        "available": true
+    },
+    {
+        "id": 327,
+        "title": "Il risveglio del drago 4",
+        "author": "George R. R. Martin",
+        "year": 1896,
+        "available": false
+    },
+    {
+        "id": 328,
+        "title": "Il regno perduto 3",
+        "author": "Umberto Eco",
+        "year": 1877,
+        "available": true
+    },
+    {
+        "id": 329,
+        "title": "La luce delle stelle 2",
+        "author": "J. K. Rowling",
+        "year": 2015,
+        "available": false
+    },
+    {
+        "id": 330,
+        "title": "Il segreto del tempo 2",
+        "author": "J. K. Rowling",
+        "year": 1980,
+        "available": true
+    },
+    {
+        "id": 331,
+        "title": "La profezia finale 3",
+        "author": "J. K. Rowling",
+        "year": 1898,
+        "available": false
+    },
+    {
+        "id": 332,
+        "title": "L’ultimo guardiano 1",
+        "author": "George Orwell",
+        "year": 2010,
+        "available": false
+    },
+    {
+        "id": 333,
+        "title": "La profezia finale 3",
+        "author": "Rick Riordan",
+        "year": 1905,
+        "available": false
+    },
+    {
+        "id": 334,
+        "title": "La luce delle stelle 5",
+        "author": "Jane Austen",
+        "year": 1922,
+        "available": false
+    },
+    {
+        "id": 335,
+        "title": "Le cronache del fuoco 4",
+        "author": "Umberto Eco",
+        "year": 1944,
+        "available": true
+    },
+    {
+        "id": 336,
+        "title": "Il regno perduto 1",
+        "author": "Isaac Asimov",
+        "year": 1926,
+        "available": false
+    },
+    {
+        "id": 337,
+        "title": "La vendetta del mago 2",
+        "author": "George R. R. Martin",
+        "year": 1999,
+        "available": true
+    },
+    {
+        "id": 338,
+        "title": "Il regno perduto 3",
+        "author": "Rick Riordan",
+        "year": 2014,
+        "available": false
+    },
+    {
+        "id": 339,
+        "title": "Le cronache del fuoco 1",
+        "author": "Rick Riordan",
+        "year": 1994,
+        "available": false
+    },
+    {
+        "id": 340,
+        "title": "La vendetta del mago 3",
+        "author": "Umberto Eco",
+        "year": 1899,
+        "available": true
+    },
+    {
+        "id": 341,
+        "title": "Il castello dimenticato 2",
+        "author": "Stephen King",
+        "year": 1918,
+        "available": false
+    },
+    {
+        "id": 342,
+        "title": "L’ultimo guardiano 5",
+        "author": "Umberto Eco",
+        "year": 1850,
+        "available": false
+    },
+    {
+        "id": 343,
+        "title": "La vendetta del mago 2",
+        "author": "J. R. R. Tolkien",
+        "year": 1960,
+        "available": false
+    },
+    {
+        "id": 344,
+        "title": "L’ombra del passato 2",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1856,
+        "available": false
+    },
+    {
+        "id": 345,
+        "title": "La luce delle stelle 3",
+        "author": "J. R. R. Tolkien",
+        "year": 1974,
+        "available": true
+    },
+    {
+        "id": 346,
+        "title": "L’ultimo guardiano 2",
+        "author": "George R. R. Martin",
+        "year": 1896,
+        "available": false
+    },
+    {
+        "id": 347,
+        "title": "Il segreto del tempo 5",
+        "author": "George R. R. Martin",
+        "year": 1944,
+        "available": false
+    },
+    {
+        "id": 348,
+        "title": "Il regno perduto 2",
+        "author": "Umberto Eco",
+        "year": 1907,
+        "available": true
+    },
+    {
+        "id": 349,
+        "title": "Il regno perduto 1",
+        "author": "J. R. R. Tolkien",
+        "year": 1911,
+        "available": true
+    },
+    {
+        "id": 350,
+        "title": "Le cronache del fuoco 4",
+        "author": "Rick Riordan",
+        "year": 1973,
+        "available": false
+    },
+    {
+        "id": 351,
+        "title": "L’ultimo guardiano 1",
+        "author": "J. K. Rowling",
+        "year": 1980,
+        "available": true
+    },
+    {
+        "id": 352,
+        "title": "Il castello dimenticato 5",
+        "author": "Isaac Asimov",
+        "year": 1961,
+        "available": false
+    },
+    {
+        "id": 353,
+        "title": "L’ombra del passato 1",
+        "author": "Umberto Eco",
+        "year": 1898,
+        "available": true
+    },
+    {
+        "id": 354,
+        "title": "La profezia finale 5",
+        "author": "Isaac Asimov",
+        "year": 1981,
+        "available": true
+    },
+    {
+        "id": 355,
+        "title": "Le cronache del fuoco 2",
+        "author": "George Orwell",
+        "year": 1920,
+        "available": true
+    },
+    {
+        "id": 356,
+        "title": "La luce delle stelle 2",
+        "author": "Rick Riordan",
+        "year": 1914,
+        "available": true
+    },
+    {
+        "id": 357,
+        "title": "Le cronache del fuoco 2",
+        "author": "Isaac Asimov",
+        "year": 1898,
+        "available": true
+    },
+    {
+        "id": 358,
+        "title": "Il regno perduto 1",
+        "author": "George R. R. Martin",
+        "year": 1916,
+        "available": true
+    },
+    {
+        "id": 359,
+        "title": "La vendetta del mago 5",
+        "author": "George Orwell",
+        "year": 1935,
+        "available": false
+    },
+    {
+        "id": 360,
+        "title": "Il castello dimenticato 5",
+        "author": "Jane Austen",
+        "year": 1897,
+        "available": true
+    },
+    {
+        "id": 361,
+        "title": "L’ombra del passato 4",
+        "author": "Umberto Eco",
+        "year": 1865,
+        "available": true
+    },
+    {
+        "id": 362,
+        "title": "La luce delle stelle 4",
+        "author": "Jane Austen",
+        "year": 1968,
+        "available": false
+    },
+    {
+        "id": 363,
+        "title": "L’ombra del passato 1",
+        "author": "J. K. Rowling",
+        "year": 1973,
+        "available": true
+    },
+    {
+        "id": 364,
+        "title": "Il segreto del tempo 4",
+        "author": "Isaac Asimov",
+        "year": 2024,
+        "available": false
+    },
+    {
+        "id": 365,
+        "title": "La luce delle stelle 4",
+        "author": "Rick Riordan",
+        "year": 1946,
+        "available": true
+    },
+    {
+        "id": 366,
+        "title": "Il segreto del tempo 2",
+        "author": "Rick Riordan",
+        "year": 1948,
+        "available": false
+    },
+    {
+        "id": 367,
+        "title": "Il regno perduto 5",
+        "author": "Jane Austen",
+        "year": 1971,
+        "available": false
+    },
+    {
+        "id": 368,
+        "title": "Il regno perduto 5",
+        "author": "J. R. R. Tolkien",
+        "year": 1886,
+        "available": true
+    },
+    {
+        "id": 369,
+        "title": "Il segreto del tempo 3",
+        "author": "Isaac Asimov",
+        "year": 1917,
+        "available": true
+    },
+    {
+        "id": 370,
+        "title": "Il regno perduto 3",
+        "author": "Umberto Eco",
+        "year": 1962,
+        "available": true
+    },
+    {
+        "id": 371,
+        "title": "Il castello dimenticato 1",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1973,
+        "available": true
+    },
+    {
+        "id": 372,
+        "title": "L’ombra del passato 4",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1888,
+        "available": false
+    },
+    {
+        "id": 373,
+        "title": "La profezia finale 3",
+        "author": "Rick Riordan",
+        "year": 2000,
+        "available": true
+    },
+    {
+        "id": 374,
+        "title": "La vendetta del mago 3",
+        "author": "Umberto Eco",
+        "year": 1911,
+        "available": false
+    },
+    {
+        "id": 375,
+        "title": "La profezia finale 5",
+        "author": "J. R. R. Tolkien",
+        "year": 1904,
+        "available": true
+    },
+    {
+        "id": 376,
+        "title": "L’ultimo guardiano 3",
+        "author": "George Orwell",
+        "year": 2004,
+        "available": false
+    },
+    {
+        "id": 377,
+        "title": "Le cronache del fuoco 4",
+        "author": "Umberto Eco",
+        "year": 1993,
+        "available": true
+    },
+    {
+        "id": 378,
+        "title": "L’ombra del passato 2",
+        "author": "George Orwell",
+        "year": 1933,
+        "available": true
+    },
+    {
+        "id": 379,
+        "title": "L’ultimo guardiano 4",
+        "author": "Isaac Asimov",
+        "year": 1992,
+        "available": false
+    },
+    {
+        "id": 380,
+        "title": "L’ombra del passato 3",
+        "author": "J. K. Rowling",
+        "year": 1921,
+        "available": true
+    },
+    {
+        "id": 381,
+        "title": "L’ultimo guardiano 4",
+        "author": "J. R. R. Tolkien",
+        "year": 1907,
+        "available": false
+    },
+    {
+        "id": 382,
+        "title": "L’ombra del passato 1",
+        "author": "George R. R. Martin",
+        "year": 1962,
+        "available": false
+    },
+    {
+        "id": 383,
+        "title": "Il segreto del tempo 2",
+        "author": "Umberto Eco",
+        "year": 1981,
+        "available": true
+    },
+    {
+        "id": 384,
+        "title": "Le cronache del fuoco 1",
+        "author": "George Orwell",
+        "year": 1964,
+        "available": false
+    },
+    {
+        "id": 385,
+        "title": "La vendetta del mago 1",
+        "author": "Umberto Eco",
+        "year": 1859,
+        "available": true
+    },
+    {
+        "id": 386,
+        "title": "La profezia finale 4",
+        "author": "Isaac Asimov",
+        "year": 1904,
+        "available": true
+    },
+    {
+        "id": 387,
+        "title": "La profezia finale 5",
+        "author": "Isaac Asimov",
+        "year": 1866,
+        "available": true
+    },
+    {
+        "id": 388,
+        "title": "La vendetta del mago 1",
+        "author": "George R. R. Martin",
+        "year": 1949,
+        "available": false
+    },
+    {
+        "id": 389,
+        "title": "L’ultimo guardiano 4",
+        "author": "Rick Riordan",
+        "year": 1911,
+        "available": true
+    },
+    {
+        "id": 390,
+        "title": "L’ultimo guardiano 5",
+        "author": "J. R. R. Tolkien",
+        "year": 1870,
+        "available": false
+    },
+    {
+        "id": 391,
+        "title": "Il castello dimenticato 1",
+        "author": "Jane Austen",
+        "year": 1990,
+        "available": false
+    },
+    {
+        "id": 392,
+        "title": "L’ultimo guardiano 1",
+        "author": "Rick Riordan",
+        "year": 2024,
+        "available": false
+    },
+    {
+        "id": 393,
+        "title": "L’ultimo guardiano 2",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1854,
+        "available": true
+    },
+    {
+        "id": 394,
+        "title": "Il risveglio del drago 3",
+        "author": "Jane Austen",
+        "year": 1861,
+        "available": false
+    },
+    {
+        "id": 395,
+        "title": "La vendetta del mago 4",
+        "author": "J. K. Rowling",
+        "year": 1856,
+        "available": false
+    },
+    {
+        "id": 396,
+        "title": "La vendetta del mago 1",
+        "author": "George R. R. Martin",
+        "year": 2022,
+        "available": false
+    },
+    {
+        "id": 397,
+        "title": "Il risveglio del drago 4",
+        "author": "Isaac Asimov",
+        "year": 1932,
+        "available": false
+    },
+    {
+        "id": 398,
+        "title": "Le cronache del fuoco 4",
+        "author": "Stephen King",
+        "year": 1877,
+        "available": true
+    },
+    {
+        "id": 399,
+        "title": "La profezia finale 1",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1864,
+        "available": false
+    },
+    {
+        "id": 400,
+        "title": "La profezia finale 5",
+        "author": "George Orwell",
+        "year": 1963,
+        "available": false
+    },
+    {
+        "id": 401,
+        "title": "Il risveglio del drago 4",
+        "author": "J. K. Rowling",
+        "year": 1907,
+        "available": true
+    },
+    {
+        "id": 402,
+        "title": "Il segreto del tempo 4",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1868,
+        "available": true
+    },
+    {
+        "id": 403,
+        "title": "La luce delle stelle 5",
+        "author": "Umberto Eco",
+        "year": 1914,
+        "available": true
+    },
+    {
+        "id": 404,
+        "title": "La vendetta del mago 3",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1911,
+        "available": false
+    },
+    {
+        "id": 405,
+        "title": "Il regno perduto 4",
+        "author": "Jane Austen",
+        "year": 1998,
+        "available": false
+    },
+    {
+        "id": 406,
+        "title": "Le cronache del fuoco 3",
+        "author": "Rick Riordan",
+        "year": 1998,
+        "available": false
+    },
+    {
+        "id": 407,
+        "title": "La luce delle stelle 4",
+        "author": "J. R. R. Tolkien",
+        "year": 1942,
+        "available": true
+    },
+    {
+        "id": 408,
+        "title": "Il segreto del tempo 5",
+        "author": "Umberto Eco",
+        "year": 1903,
+        "available": false
+    },
+    {
+        "id": 409,
+        "title": "La luce delle stelle 5",
+        "author": "J. R. R. Tolkien",
+        "year": 1933,
+        "available": true
+    },
+    {
+        "id": 410,
+        "title": "Le cronache del fuoco 4",
+        "author": "Stephen King",
+        "year": 1896,
+        "available": true
+    },
+    {
+        "id": 411,
+        "title": "La luce delle stelle 3",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1850,
+        "available": true
+    },
+    {
+        "id": 412,
+        "title": "La profezia finale 2",
+        "author": "George R. R. Martin",
+        "year": 1949,
+        "available": false
+    },
+    {
+        "id": 413,
+        "title": "L’ultimo guardiano 4",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1932,
+        "available": true
+    },
+    {
+        "id": 414,
+        "title": "L’ultimo guardiano 1",
+        "author": "Jane Austen",
+        "year": 1898,
+        "available": false
+    },
+    {
+        "id": 415,
+        "title": "L’ombra del passato 1",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1864,
+        "available": false
+    },
+    {
+        "id": 416,
+        "title": "La vendetta del mago 4",
+        "author": "Stephen King",
+        "year": 1899,
+        "available": true
+    },
+    {
+        "id": 417,
+        "title": "La profezia finale 5",
+        "author": "J. R. R. Tolkien",
+        "year": 1952,
+        "available": true
+    },
+    {
+        "id": 418,
+        "title": "Il regno perduto 4",
+        "author": "Umberto Eco",
+        "year": 1932,
+        "available": false
+    },
+    {
+        "id": 419,
+        "title": "Il segreto del tempo 4",
+        "author": "George Orwell",
+        "year": 1891,
+        "available": true
+    },
+    {
+        "id": 420,
+        "title": "La luce delle stelle 1",
+        "author": "J. R. R. Tolkien",
+        "year": 1918,
+        "available": true
+    },
+    {
+        "id": 421,
+        "title": "Il regno perduto 2",
+        "author": "J. R. R. Tolkien",
+        "year": 1966,
+        "available": true
+    },
+    {
+        "id": 422,
+        "title": "Il castello dimenticato 5",
+        "author": "J. K. Rowling",
+        "year": 1908,
+        "available": false
+    },
+    {
+        "id": 423,
+        "title": "La vendetta del mago 1",
+        "author": "Stephen King",
+        "year": 1987,
+        "available": false
+    },
+    {
+        "id": 424,
+        "title": "Il regno perduto 3",
+        "author": "Stephen King",
+        "year": 1862,
+        "available": false
+    },
+    {
+        "id": 425,
+        "title": "La luce delle stelle 5",
+        "author": "George Orwell",
+        "year": 1926,
+        "available": false
+    },
+    {
+        "id": 426,
+        "title": "Le cronache del fuoco 1",
+        "author": "Rick Riordan",
+        "year": 1922,
+        "available": false
+    },
+    {
+        "id": 427,
+        "title": "Il regno perduto 3",
+        "author": "Isaac Asimov",
+        "year": 1960,
+        "available": true
+    },
+    {
+        "id": 428,
+        "title": "Le cronache del fuoco 4",
+        "author": "Rick Riordan",
+        "year": 1908,
+        "available": true
+    },
+    {
+        "id": 429,
+        "title": "L’ombra del passato 3",
+        "author": "Umberto Eco",
+        "year": 1948,
+        "available": false
+    },
+    {
+        "id": 430,
+        "title": "Il risveglio del drago 1",
+        "author": "Jane Austen",
+        "year": 1932,
+        "available": true
+    },
+    {
+        "id": 431,
+        "title": "Le cronache del fuoco 2",
+        "author": "Isaac Asimov",
+        "year": 1994,
+        "available": false
+    },
+    {
+        "id": 432,
+        "title": "La profezia finale 3",
+        "author": "George R. R. Martin",
+        "year": 1925,
+        "available": true
+    },
+    {
+        "id": 433,
+        "title": "Il segreto del tempo 2",
+        "author": "Stephen King",
+        "year": 2012,
+        "available": true
+    },
+    {
+        "id": 434,
+        "title": "Il castello dimenticato 1",
+        "author": "J. K. Rowling",
+        "year": 2023,
+        "available": false
+    },
+    {
+        "id": 435,
+        "title": "Il castello dimenticato 3",
+        "author": "Stephen King",
+        "year": 1856,
+        "available": true
+    },
+    {
+        "id": 436,
+        "title": "L’ombra del passato 5",
+        "author": "Umberto Eco",
+        "year": 2014,
+        "available": true
+    },
+    {
+        "id": 437,
+        "title": "L’ultimo guardiano 4",
+        "author": "Jane Austen",
+        "year": 1913,
+        "available": false
+    },
+    {
+        "id": 438,
+        "title": "L’ombra del passato 4",
+        "author": "Jane Austen",
+        "year": 1903,
+        "available": true
+    },
+    {
+        "id": 439,
+        "title": "Il risveglio del drago 1",
+        "author": "Rick Riordan",
+        "year": 1980,
+        "available": true
+    },
+    {
+        "id": 440,
+        "title": "Le cronache del fuoco 1",
+        "author": "Rick Riordan",
+        "year": 2017,
+        "available": false
+    },
+    {
+        "id": 441,
+        "title": "Il regno perduto 4",
+        "author": "Stephen King",
+        "year": 1910,
+        "available": false
+    },
+    {
+        "id": 442,
+        "title": "La luce delle stelle 1",
+        "author": "George R. R. Martin",
+        "year": 1940,
+        "available": true
+    },
+    {
+        "id": 443,
+        "title": "Il castello dimenticato 3",
+        "author": "Rick Riordan",
+        "year": 1868,
+        "available": true
+    },
+    {
+        "id": 444,
+        "title": "La luce delle stelle 4",
+        "author": "Rick Riordan",
+        "year": 1919,
+        "available": false
+    },
+    {
+        "id": 445,
+        "title": "Il regno perduto 4",
+        "author": "George Orwell",
+        "year": 1969,
+        "available": true
+    },
+    {
+        "id": 446,
+        "title": "Il regno perduto 1",
+        "author": "George Orwell",
+        "year": 1939,
+        "available": false
+    },
+    {
+        "id": 447,
+        "title": "L’ombra del passato 4",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 2020,
+        "available": true
+    },
+    {
+        "id": 448,
+        "title": "Il segreto del tempo 3",
+        "author": "Umberto Eco",
+        "year": 1901,
+        "available": false
+    },
+    {
+        "id": 449,
+        "title": "La vendetta del mago 2",
+        "author": "J. K. Rowling",
+        "year": 1892,
+        "available": false
+    },
+    {
+        "id": 450,
+        "title": "Il segreto del tempo 1",
+        "author": "J. R. R. Tolkien",
+        "year": 1907,
+        "available": true
+    },
+    {
+        "id": 451,
+        "title": "La vendetta del mago 3",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1897,
+        "available": false
+    },
+    {
+        "id": 452,
+        "title": "Il castello dimenticato 2",
+        "author": "Stephen King",
+        "year": 1917,
+        "available": true
+    },
+    {
+        "id": 453,
+        "title": "L’ultimo guardiano 2",
+        "author": "J. R. R. Tolkien",
+        "year": 1950,
+        "available": false
+    },
+    {
+        "id": 454,
+        "title": "Il castello dimenticato 5",
+        "author": "Umberto Eco",
+        "year": 1968,
+        "available": false
+    },
+    {
+        "id": 455,
+        "title": "Il regno perduto 2",
+        "author": "Umberto Eco",
+        "year": 2009,
+        "available": true
+    },
+    {
+        "id": 456,
+        "title": "Il regno perduto 5",
+        "author": "J. K. Rowling",
+        "year": 1901,
+        "available": true
+    },
+    {
+        "id": 457,
+        "title": "Le cronache del fuoco 1",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1855,
+        "available": true
+    },
+    {
+        "id": 458,
+        "title": "Il regno perduto 5",
+        "author": "Umberto Eco",
+        "year": 1924,
+        "available": false
+    },
+    {
+        "id": 459,
+        "title": "Le cronache del fuoco 5",
+        "author": "Stephen King",
+        "year": 1989,
+        "available": true
+    },
+    {
+        "id": 460,
+        "title": "Il regno perduto 5",
+        "author": "J. R. R. Tolkien",
+        "year": 1887,
+        "available": true
+    },
+    {
+        "id": 461,
+        "title": "Il risveglio del drago 1",
+        "author": "George R. R. Martin",
+        "year": 1966,
+        "available": false
+    },
+    {
+        "id": 462,
+        "title": "Il segreto del tempo 4",
+        "author": "Umberto Eco",
+        "year": 2008,
+        "available": true
+    },
+    {
+        "id": 463,
+        "title": "La luce delle stelle 1",
+        "author": "Stephen King",
+        "year": 1978,
+        "available": true
+    },
+    {
+        "id": 464,
+        "title": "Il segreto del tempo 2",
+        "author": "Rick Riordan",
+        "year": 1882,
+        "available": false
+    },
+    {
+        "id": 465,
+        "title": "L’ultimo guardiano 5",
+        "author": "George Orwell",
+        "year": 1942,
+        "available": false
+    },
+    {
+        "id": 466,
+        "title": "La vendetta del mago 5",
+        "author": "Rick Riordan",
+        "year": 2019,
+        "available": true
+    },
+    {
+        "id": 467,
+        "title": "La vendetta del mago 4",
+        "author": "Umberto Eco",
+        "year": 1886,
+        "available": false
+    },
+    {
+        "id": 468,
+        "title": "La luce delle stelle 1",
+        "author": "J. K. Rowling",
+        "year": 1920,
+        "available": true
+    },
+    {
+        "id": 469,
+        "title": "L’ultimo guardiano 5",
+        "author": "Jane Austen",
+        "year": 2010,
+        "available": false
+    },
+    {
+        "id": 470,
+        "title": "Il regno perduto 2",
+        "author": "Rick Riordan",
+        "year": 1993,
+        "available": true
+    },
+    {
+        "id": 471,
+        "title": "Le cronache del fuoco 2",
+        "author": "J. R. R. Tolkien",
+        "year": 2006,
+        "available": false
+    },
+    {
+        "id": 472,
+        "title": "Le cronache del fuoco 3",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1903,
+        "available": true
+    },
+    {
+        "id": 473,
+        "title": "L’ultimo guardiano 4",
+        "author": "J. R. R. Tolkien",
+        "year": 1939,
+        "available": false
+    },
+    {
+        "id": 474,
+        "title": "L’ultimo guardiano 5",
+        "author": "Isaac Asimov",
+        "year": 1919,
+        "available": false
+    },
+    {
+        "id": 475,
+        "title": "L’ombra del passato 5",
+        "author": "George R. R. Martin",
+        "year": 1922,
+        "available": true
+    },
+    {
+        "id": 476,
+        "title": "L’ultimo guardiano 2",
+        "author": "George Orwell",
+        "year": 1970,
+        "available": true
+    },
+    {
+        "id": 477,
+        "title": "L’ombra del passato 2",
+        "author": "Rick Riordan",
+        "year": 2007,
+        "available": true
+    },
+    {
+        "id": 478,
+        "title": "La luce delle stelle 4",
+        "author": "J. K. Rowling",
+        "year": 1986,
+        "available": false
+    },
+    {
+        "id": 479,
+        "title": "La vendetta del mago 4",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1956,
+        "available": false
+    },
+    {
+        "id": 480,
+        "title": "Il regno perduto 3",
+        "author": "J. K. Rowling",
+        "year": 1928,
+        "available": false
+    },
+    {
+        "id": 481,
+        "title": "Il segreto del tempo 5",
+        "author": "George Orwell",
+        "year": 1875,
+        "available": true
+    },
+    {
+        "id": 482,
+        "title": "L’ombra del passato 2",
+        "author": "J. K. Rowling",
+        "year": 1916,
+        "available": true
+    },
+    {
+        "id": 483,
+        "title": "Le cronache del fuoco 4",
+        "author": "George R. R. Martin",
+        "year": 2005,
+        "available": true
+    },
+    {
+        "id": 484,
+        "title": "Il regno perduto 5",
+        "author": "Rick Riordan",
+        "year": 2007,
+        "available": true
+    },
+    {
+        "id": 485,
+        "title": "La vendetta del mago 1",
+        "author": "J. R. R. Tolkien",
+        "year": 2014,
+        "available": false
+    },
+    {
+        "id": 486,
+        "title": "Il segreto del tempo 2",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1932,
+        "available": true
+    },
+    {
+        "id": 487,
+        "title": "Il risveglio del drago 4",
+        "author": "George Orwell",
+        "year": 1858,
+        "available": true
+    },
+    {
+        "id": 488,
+        "title": "La profezia finale 5",
+        "author": "Umberto Eco",
+        "year": 1906,
+        "available": true
+    },
+    {
+        "id": 489,
+        "title": "L’ombra del passato 2",
+        "author": "Rick Riordan",
+        "year": 1870,
+        "available": true
+    },
+    {
+        "id": 490,
+        "title": "La luce delle stelle 1",
+        "author": "George R. R. Martin",
+        "year": 1985,
+        "available": false
+    },
+    {
+        "id": 491,
+        "title": "La vendetta del mago 1",
+        "author": "Umberto Eco",
+        "year": 1914,
+        "available": false
+    },
+    {
+        "id": 492,
+        "title": "L’ultimo guardiano 1",
+        "author": "Stephen King",
+        "year": 1952,
+        "available": true
+    },
+    {
+        "id": 493,
+        "title": "Il risveglio del drago 2",
+        "author": "Jane Austen",
+        "year": 1952,
+        "available": true
+    },
+    {
+        "id": 494,
+        "title": "Il segreto del tempo 4",
+        "author": "Isaac Asimov",
+        "year": 1995,
+        "available": false
+    },
+    {
+        "id": 495,
+        "title": "Le cronache del fuoco 4",
+        "author": "Rick Riordan",
+        "year": 2010,
+        "available": false
+    },
+    {
+        "id": 496,
+        "title": "Il segreto del tempo 4",
+        "author": "Stephen King",
+        "year": 1901,
+        "available": false
+    },
+    {
+        "id": 497,
+        "title": "Le cronache del fuoco 2",
+        "author": "Stephen King",
+        "year": 1989,
+        "available": true
+    },
+    {
+        "id": 498,
+        "title": "Il regno perduto 2",
+        "author": "Rick Riordan",
+        "year": 1944,
+        "available": false
+    },
+    {
+        "id": 499,
+        "title": "Il castello dimenticato 4",
+        "author": "Umberto Eco",
+        "year": 2001,
+        "available": true
+    },
+    {
+        "id": 500,
+        "title": "Il castello dimenticato 1",
+        "author": "George R. R. Martin",
+        "year": 1900,
+        "available": true
+    },
+    {
+        "id": 501,
+        "title": "Il risveglio del drago 4",
+        "author": "George R. R. Martin",
+        "year": 1858,
+        "available": false
+    },
+    {
+        "id": 502,
+        "title": "Il regno perduto 3",
+        "author": "Rick Riordan",
+        "year": 1992,
+        "available": true
+    },
+    {
+        "id": 503,
+        "title": "La luce delle stelle 1",
+        "author": "J. K. Rowling",
+        "year": 1890,
+        "available": false
+    },
+    {
+        "id": 504,
+        "title": "L’ultimo guardiano 4",
+        "author": "Umberto Eco",
+        "year": 1872,
+        "available": true
+    },
+    {
+        "id": 505,
+        "title": "Il risveglio del drago 4",
+        "author": "J. K. Rowling",
+        "year": 2001,
+        "available": false
+    },
+    {
+        "id": 506,
+        "title": "Le cronache del fuoco 4",
+        "author": "Umberto Eco",
+        "year": 1939,
+        "available": true
+    },
+    {
+        "id": 507,
+        "title": "Il segreto del tempo 1",
+        "author": "Jane Austen",
+        "year": 1929,
+        "available": false
+    },
+    {
+        "id": 508,
+        "title": "La profezia finale 2",
+        "author": "J. K. Rowling",
+        "year": 1979,
+        "available": false
+    },
+    {
+        "id": 509,
+        "title": "Il segreto del tempo 3",
+        "author": "George R. R. Martin",
+        "year": 1870,
+        "available": true
+    },
+    {
+        "id": 510,
+        "title": "Il segreto del tempo 5",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1863,
+        "available": true
+    },
+    {
+        "id": 511,
+        "title": "L’ultimo guardiano 4",
+        "author": "George R. R. Martin",
+        "year": 2012,
+        "available": true
+    },
+    {
+        "id": 512,
+        "title": "Il regno perduto 3",
+        "author": "Isaac Asimov",
+        "year": 1991,
+        "available": false
+    },
+    {
+        "id": 513,
+        "title": "L’ultimo guardiano 4",
+        "author": "J. K. Rowling",
+        "year": 1950,
+        "available": false
+    },
+    {
+        "id": 514,
+        "title": "L’ultimo guardiano 3",
+        "author": "J. R. R. Tolkien",
+        "year": 1908,
+        "available": false
+    },
+    {
+        "id": 515,
+        "title": "L’ultimo guardiano 1",
+        "author": "Isaac Asimov",
+        "year": 2014,
+        "available": true
+    },
+    {
+        "id": 516,
+        "title": "Il segreto del tempo 3",
+        "author": "Umberto Eco",
+        "year": 1915,
+        "available": false
+    },
+    {
+        "id": 517,
+        "title": "La profezia finale 4",
+        "author": "J. R. R. Tolkien",
+        "year": 1931,
+        "available": true
+    },
+    {
+        "id": 518,
+        "title": "Il risveglio del drago 2",
+        "author": "Rick Riordan",
+        "year": 1926,
+        "available": true
+    },
+    {
+        "id": 519,
+        "title": "Le cronache del fuoco 2",
+        "author": "Umberto Eco",
+        "year": 1931,
+        "available": true
+    },
+    {
+        "id": 520,
+        "title": "L’ombra del passato 2",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 2000,
+        "available": false
+    },
+    {
+        "id": 521,
+        "title": "L’ombra del passato 3",
+        "author": "George R. R. Martin",
+        "year": 1994,
+        "available": false
+    },
+    {
+        "id": 522,
+        "title": "La vendetta del mago 4",
+        "author": "Stephen King",
+        "year": 2001,
+        "available": true
+    },
+    {
+        "id": 523,
+        "title": "Il segreto del tempo 3",
+        "author": "J. R. R. Tolkien",
+        "year": 1951,
+        "available": false
+    },
+    {
+        "id": 524,
+        "title": "Il castello dimenticato 2",
+        "author": "George Orwell",
+        "year": 2013,
+        "available": true
+    },
+    {
+        "id": 525,
+        "title": "La luce delle stelle 4",
+        "author": "Stephen King",
+        "year": 1867,
+        "available": false
+    },
+    {
+        "id": 526,
+        "title": "La vendetta del mago 5",
+        "author": "George Orwell",
+        "year": 1936,
+        "available": true
+    },
+    {
+        "id": 527,
+        "title": "Il risveglio del drago 1",
+        "author": "Stephen King",
+        "year": 1925,
+        "available": true
+    },
+    {
+        "id": 528,
+        "title": "La luce delle stelle 3",
+        "author": "J. R. R. Tolkien",
+        "year": 1868,
+        "available": true
+    },
+    {
+        "id": 529,
+        "title": "Le cronache del fuoco 5",
+        "author": "Jane Austen",
+        "year": 2022,
+        "available": false
+    },
+    {
+        "id": 530,
+        "title": "Il segreto del tempo 1",
+        "author": "J. K. Rowling",
+        "year": 1935,
+        "available": false
+    },
+    {
+        "id": 531,
+        "title": "Le cronache del fuoco 1",
+        "author": "Isaac Asimov",
+        "year": 1929,
+        "available": false
+    },
+    {
+        "id": 532,
+        "title": "La luce delle stelle 1",
+        "author": "Rick Riordan",
+        "year": 1941,
+        "available": false
+    },
+    {
+        "id": 533,
+        "title": "La luce delle stelle 2",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 2002,
+        "available": false
+    },
+    {
+        "id": 534,
+        "title": "Il risveglio del drago 4",
+        "author": "Umberto Eco",
+        "year": 1862,
+        "available": false
+    },
+    {
+        "id": 535,
+        "title": "Il castello dimenticato 2",
+        "author": "J. K. Rowling",
+        "year": 1929,
+        "available": false
+    },
+    {
+        "id": 536,
+        "title": "La profezia finale 4",
+        "author": "George Orwell",
+        "year": 1987,
+        "available": false
+    },
+    {
+        "id": 537,
+        "title": "L’ombra del passato 3",
+        "author": "Isaac Asimov",
+        "year": 1870,
+        "available": true
+    },
+    {
+        "id": 538,
+        "title": "Il segreto del tempo 1",
+        "author": "Isaac Asimov",
+        "year": 1902,
+        "available": false
+    },
+    {
+        "id": 539,
+        "title": "Le cronache del fuoco 1",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1932,
+        "available": false
+    },
+    {
+        "id": 540,
+        "title": "Il segreto del tempo 1",
+        "author": "George R. R. Martin",
+        "year": 1971,
+        "available": false
+    },
+    {
+        "id": 541,
+        "title": "Il risveglio del drago 3",
+        "author": "Rick Riordan",
+        "year": 1865,
+        "available": true
+    },
+    {
+        "id": 542,
+        "title": "Il castello dimenticato 1",
+        "author": "Umberto Eco",
+        "year": 1898,
+        "available": true
+    },
+    {
+        "id": 543,
+        "title": "Il segreto del tempo 4",
+        "author": "Isaac Asimov",
+        "year": 2016,
+        "available": true
+    },
+    {
+        "id": 544,
+        "title": "Il risveglio del drago 1",
+        "author": "George R. R. Martin",
+        "year": 1947,
+        "available": false
+    },
+    {
+        "id": 545,
+        "title": "La luce delle stelle 2",
+        "author": "Rick Riordan",
+        "year": 1884,
+        "available": false
+    },
+    {
+        "id": 546,
+        "title": "L’ultimo guardiano 3",
+        "author": "George Orwell",
+        "year": 1878,
+        "available": false
+    },
+    {
+        "id": 547,
+        "title": "La vendetta del mago 2",
+        "author": "Rick Riordan",
+        "year": 1859,
+        "available": true
+    },
+    {
+        "id": 548,
+        "title": "L’ultimo guardiano 5",
+        "author": "Isaac Asimov",
+        "year": 1869,
+        "available": false
+    },
+    {
+        "id": 549,
+        "title": "Il regno perduto 4",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1949,
+        "available": true
+    },
+    {
+        "id": 550,
+        "title": "L’ombra del passato 1",
+        "author": "Rick Riordan",
+        "year": 1855,
+        "available": false
+    },
+    {
+        "id": 551,
+        "title": "La luce delle stelle 3",
+        "author": "Isaac Asimov",
+        "year": 2008,
+        "available": false
+    },
+    {
+        "id": 552,
+        "title": "Il segreto del tempo 4",
+        "author": "Stephen King",
+        "year": 1894,
+        "available": true
+    },
+    {
+        "id": 553,
+        "title": "La luce delle stelle 3",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1999,
+        "available": true
+    },
+    {
+        "id": 554,
+        "title": "Il castello dimenticato 5",
+        "author": "Jane Austen",
+        "year": 1860,
+        "available": false
+    },
+    {
+        "id": 555,
+        "title": "La vendetta del mago 1",
+        "author": "Stephen King",
+        "year": 1952,
+        "available": true
+    },
+    {
+        "id": 556,
+        "title": "L’ombra del passato 5",
+        "author": "Jane Austen",
+        "year": 1920,
+        "available": true
+    },
+    {
+        "id": 557,
+        "title": "L’ombra del passato 1",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1901,
+        "available": false
+    },
+    {
+        "id": 558,
+        "title": "L’ombra del passato 2",
+        "author": "J. R. R. Tolkien",
+        "year": 1880,
+        "available": true
+    },
+    {
+        "id": 559,
+        "title": "Le cronache del fuoco 5",
+        "author": "Isaac Asimov",
+        "year": 1966,
+        "available": true
+    },
+    {
+        "id": 560,
+        "title": "L’ombra del passato 2",
+        "author": "George R. R. Martin",
+        "year": 1974,
+        "available": true
+    },
+    {
+        "id": 561,
+        "title": "Il regno perduto 3",
+        "author": "George Orwell",
+        "year": 2011,
+        "available": false
+    },
+    {
+        "id": 562,
+        "title": "Il castello dimenticato 1",
+        "author": "George R. R. Martin",
+        "year": 1939,
+        "available": false
+    },
+    {
+        "id": 563,
+        "title": "Il risveglio del drago 4",
+        "author": "George R. R. Martin",
+        "year": 2000,
+        "available": false
+    },
+    {
+        "id": 564,
+        "title": "Il risveglio del drago 4",
+        "author": "Stephen King",
+        "year": 1874,
+        "available": false
+    },
+    {
+        "id": 565,
+        "title": "Le cronache del fuoco 1",
+        "author": "George Orwell",
+        "year": 1909,
+        "available": false
+    },
+    {
+        "id": 566,
+        "title": "La vendetta del mago 5",
+        "author": "Jane Austen",
+        "year": 1858,
+        "available": false
+    },
+    {
+        "id": 567,
+        "title": "Il castello dimenticato 4",
+        "author": "Stephen King",
+        "year": 1932,
+        "available": true
+    },
+    {
+        "id": 568,
+        "title": "Il castello dimenticato 3",
+        "author": "Umberto Eco",
+        "year": 1983,
+        "available": true
+    },
+    {
+        "id": 569,
+        "title": "L’ultimo guardiano 2",
+        "author": "George R. R. Martin",
+        "year": 1903,
+        "available": false
+    },
+    {
+        "id": 570,
+        "title": "Il castello dimenticato 1",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1924,
+        "available": true
+    },
+    {
+        "id": 571,
+        "title": "Il castello dimenticato 1",
+        "author": "Stephen King",
+        "year": 1969,
+        "available": false
+    },
+    {
+        "id": 572,
+        "title": "La vendetta del mago 5",
+        "author": "Stephen King",
+        "year": 1973,
+        "available": true
+    },
+    {
+        "id": 573,
+        "title": "L’ombra del passato 2",
+        "author": "George R. R. Martin",
+        "year": 1995,
+        "available": true
+    },
+    {
+        "id": 574,
+        "title": "La luce delle stelle 1",
+        "author": "J. K. Rowling",
+        "year": 2003,
+        "available": false
+    },
+    {
+        "id": 575,
+        "title": "Il regno perduto 1",
+        "author": "J. K. Rowling",
+        "year": 1899,
+        "available": true
+    },
+    {
+        "id": 576,
+        "title": "La luce delle stelle 1",
+        "author": "Rick Riordan",
+        "year": 1972,
+        "available": true
+    },
+    {
+        "id": 577,
+        "title": "Il castello dimenticato 4",
+        "author": "Jane Austen",
+        "year": 1919,
+        "available": true
+    },
+    {
+        "id": 578,
+        "title": "Il risveglio del drago 5",
+        "author": "Rick Riordan",
+        "year": 1866,
+        "available": true
+    },
+    {
+        "id": 579,
+        "title": "Il risveglio del drago 2",
+        "author": "Umberto Eco",
+        "year": 1938,
+        "available": true
+    },
+    {
+        "id": 580,
+        "title": "La vendetta del mago 5",
+        "author": "J. K. Rowling",
+        "year": 1924,
+        "available": false
+    },
+    {
+        "id": 581,
+        "title": "La profezia finale 1",
+        "author": "George R. R. Martin",
+        "year": 2008,
+        "available": true
+    },
+    {
+        "id": 582,
+        "title": "Il risveglio del drago 2",
+        "author": "Rick Riordan",
+        "year": 1968,
+        "available": true
+    },
+    {
+        "id": 583,
+        "title": "L’ombra del passato 3",
+        "author": "George Orwell",
+        "year": 1869,
+        "available": false
+    },
+    {
+        "id": 584,
+        "title": "Il castello dimenticato 5",
+        "author": "George R. R. Martin",
+        "year": 1949,
+        "available": false
+    },
+    {
+        "id": 585,
+        "title": "Il segreto del tempo 2",
+        "author": "Jane Austen",
+        "year": 1948,
+        "available": true
+    },
+    {
+        "id": 586,
+        "title": "Il castello dimenticato 1",
+        "author": "George Orwell",
+        "year": 2012,
+        "available": true
+    },
+    {
+        "id": 587,
+        "title": "Il risveglio del drago 1",
+        "author": "George R. R. Martin",
+        "year": 2012,
+        "available": true
+    },
+    {
+        "id": 588,
+        "title": "Il castello dimenticato 5",
+        "author": "J. R. R. Tolkien",
+        "year": 1984,
+        "available": true
+    },
+    {
+        "id": 589,
+        "title": "La luce delle stelle 4",
+        "author": "Stephen King",
+        "year": 1972,
+        "available": false
+    },
+    {
+        "id": 590,
+        "title": "Il castello dimenticato 4",
+        "author": "J. R. R. Tolkien",
+        "year": 1949,
+        "available": false
+    },
+    {
+        "id": 591,
+        "title": "La vendetta del mago 1",
+        "author": "Rick Riordan",
+        "year": 1976,
+        "available": true
+    },
+    {
+        "id": 592,
+        "title": "La luce delle stelle 1",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1883,
+        "available": true
+    },
+    {
+        "id": 593,
+        "title": "Il castello dimenticato 4",
+        "author": "George Orwell",
+        "year": 1899,
+        "available": true
+    },
+    {
+        "id": 594,
+        "title": "Il risveglio del drago 2",
+        "author": "J. K. Rowling",
+        "year": 1924,
+        "available": true
+    },
+    {
+        "id": 595,
+        "title": "La luce delle stelle 3",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1987,
+        "available": true
+    },
+    {
+        "id": 596,
+        "title": "La luce delle stelle 2",
+        "author": "J. R. R. Tolkien",
+        "year": 1912,
+        "available": false
+    },
+    {
+        "id": 597,
+        "title": "Il castello dimenticato 3",
+        "author": "George R. R. Martin",
+        "year": 1883,
+        "available": false
+    },
+    {
+        "id": 598,
+        "title": "La vendetta del mago 4",
+        "author": "Isaac Asimov",
+        "year": 1904,
+        "available": false
+    },
+    {
+        "id": 599,
+        "title": "La luce delle stelle 2",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 2018,
+        "available": false
+    },
+    {
+        "id": 600,
+        "title": "Il castello dimenticato 1",
+        "author": "J. K. Rowling",
+        "year": 2013,
+        "available": false
+    },
+    {
+        "id": 601,
+        "title": "Il segreto del tempo 2",
+        "author": "Isaac Asimov",
+        "year": 1903,
+        "available": false
+    },
+    {
+        "id": 602,
+        "title": "La vendetta del mago 1",
+        "author": "Umberto Eco",
+        "year": 1896,
+        "available": true
+    },
+    {
+        "id": 603,
+        "title": "La luce delle stelle 3",
+        "author": "Stephen King",
+        "year": 1899,
+        "available": true
+    },
+    {
+        "id": 604,
+        "title": "Il segreto del tempo 3",
+        "author": "J. R. R. Tolkien",
+        "year": 1909,
+        "available": true
+    },
+    {
+        "id": 605,
+        "title": "Il castello dimenticato 2",
+        "author": "Rick Riordan",
+        "year": 1896,
+        "available": true
+    },
+    {
+        "id": 606,
+        "title": "Le cronache del fuoco 4",
+        "author": "George R. R. Martin",
+        "year": 1870,
+        "available": true
+    },
+    {
+        "id": 607,
+        "title": "La luce delle stelle 3",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1944,
+        "available": true
+    },
+    {
+        "id": 608,
+        "title": "Il risveglio del drago 4",
+        "author": "George Orwell",
+        "year": 1998,
+        "available": false
+    },
+    {
+        "id": 609,
+        "title": "La profezia finale 2",
+        "author": "J. R. R. Tolkien",
+        "year": 1871,
+        "available": true
+    },
+    {
+        "id": 610,
+        "title": "La vendetta del mago 4",
+        "author": "George Orwell",
+        "year": 1950,
+        "available": false
+    },
+    {
+        "id": 611,
+        "title": "La vendetta del mago 1",
+        "author": "George R. R. Martin",
+        "year": 1960,
+        "available": true
+    },
+    {
+        "id": 612,
+        "title": "La vendetta del mago 3",
+        "author": "Umberto Eco",
+        "year": 1861,
+        "available": false
+    },
+    {
+        "id": 613,
+        "title": "L’ombra del passato 1",
+        "author": "George R. R. Martin",
+        "year": 1983,
+        "available": false
+    },
+    {
+        "id": 614,
+        "title": "L’ultimo guardiano 2",
+        "author": "J. R. R. Tolkien",
+        "year": 1903,
+        "available": true
+    },
+    {
+        "id": 615,
+        "title": "L’ultimo guardiano 2",
+        "author": "Jane Austen",
+        "year": 1922,
+        "available": true
+    },
+    {
+        "id": 616,
+        "title": "La vendetta del mago 4",
+        "author": "Umberto Eco",
+        "year": 1967,
+        "available": true
+    },
+    {
+        "id": 617,
+        "title": "Le cronache del fuoco 4",
+        "author": "J. K. Rowling",
+        "year": 1910,
+        "available": false
+    },
+    {
+        "id": 618,
+        "title": "La vendetta del mago 3",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1999,
+        "available": false
+    },
+    {
+        "id": 619,
+        "title": "Il regno perduto 3",
+        "author": "Stephen King",
+        "year": 2018,
+        "available": true
+    },
+    {
+        "id": 620,
+        "title": "La luce delle stelle 4",
+        "author": "J. R. R. Tolkien",
+        "year": 1981,
+        "available": true
+    },
+    {
+        "id": 621,
+        "title": "Le cronache del fuoco 3",
+        "author": "J. R. R. Tolkien",
+        "year": 1914,
+        "available": false
+    },
+    {
+        "id": 622,
+        "title": "La luce delle stelle 3",
+        "author": "George R. R. Martin",
+        "year": 1865,
+        "available": true
+    },
+    {
+        "id": 623,
+        "title": "L’ultimo guardiano 2",
+        "author": "J. R. R. Tolkien",
+        "year": 2004,
+        "available": true
+    },
+    {
+        "id": 624,
+        "title": "Il risveglio del drago 2",
+        "author": "Rick Riordan",
+        "year": 1868,
+        "available": true
+    },
+    {
+        "id": 625,
+        "title": "Il risveglio del drago 4",
+        "author": "George R. R. Martin",
+        "year": 1917,
+        "available": true
+    },
+    {
+        "id": 626,
+        "title": "L’ombra del passato 2",
+        "author": "Isaac Asimov",
+        "year": 2001,
+        "available": true
+    },
+    {
+        "id": 627,
+        "title": "Il castello dimenticato 4",
+        "author": "George R. R. Martin",
+        "year": 1937,
+        "available": true
+    },
+    {
+        "id": 628,
+        "title": "La vendetta del mago 4",
+        "author": "Jane Austen",
+        "year": 1945,
+        "available": true
+    },
+    {
+        "id": 629,
+        "title": "La luce delle stelle 1",
+        "author": "George R. R. Martin",
+        "year": 1933,
+        "available": false
+    },
+    {
+        "id": 630,
+        "title": "La profezia finale 5",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1969,
+        "available": false
+    },
+    {
+        "id": 631,
+        "title": "Il castello dimenticato 5",
+        "author": "Rick Riordan",
+        "year": 1887,
+        "available": true
+    },
+    {
+        "id": 632,
+        "title": "Le cronache del fuoco 3",
+        "author": "Jane Austen",
+        "year": 1994,
+        "available": true
+    },
+    {
+        "id": 633,
+        "title": "La vendetta del mago 2",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1974,
+        "available": false
+    },
+    {
+        "id": 634,
+        "title": "Il castello dimenticato 4",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1873,
+        "available": false
+    },
+    {
+        "id": 635,
+        "title": "L’ombra del passato 5",
+        "author": "Jane Austen",
+        "year": 1935,
+        "available": false
+    },
+    {
+        "id": 636,
+        "title": "Il segreto del tempo 5",
+        "author": "Umberto Eco",
+        "year": 2023,
+        "available": false
+    },
+    {
+        "id": 637,
+        "title": "La profezia finale 5",
+        "author": "Stephen King",
+        "year": 1949,
+        "available": true
+    },
+    {
+        "id": 638,
+        "title": "Il risveglio del drago 4",
+        "author": "Umberto Eco",
+        "year": 2017,
+        "available": true
+    },
+    {
+        "id": 639,
+        "title": "Il risveglio del drago 2",
+        "author": "George Orwell",
+        "year": 1997,
+        "available": true
+    },
+    {
+        "id": 640,
+        "title": "Il segreto del tempo 2",
+        "author": "Stephen King",
+        "year": 2001,
+        "available": true
+    },
+    {
+        "id": 641,
+        "title": "La profezia finale 2",
+        "author": "Rick Riordan",
+        "year": 1928,
+        "available": false
+    },
+    {
+        "id": 642,
+        "title": "Il regno perduto 4",
+        "author": "Stephen King",
+        "year": 1923,
+        "available": true
+    },
+    {
+        "id": 643,
+        "title": "L’ultimo guardiano 1",
+        "author": "Jane Austen",
+        "year": 1936,
+        "available": true
+    },
+    {
+        "id": 644,
+        "title": "Il risveglio del drago 1",
+        "author": "Isaac Asimov",
+        "year": 1869,
+        "available": false
+    },
+    {
+        "id": 645,
+        "title": "La vendetta del mago 3",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1893,
+        "available": false
+    },
+    {
+        "id": 646,
+        "title": "La profezia finale 2",
+        "author": "J. R. R. Tolkien",
+        "year": 1936,
+        "available": true
+    },
+    {
+        "id": 647,
+        "title": "Il regno perduto 2",
+        "author": "George R. R. Martin",
+        "year": 2003,
+        "available": true
+    },
+    {
+        "id": 648,
+        "title": "La vendetta del mago 5",
+        "author": "J. R. R. Tolkien",
+        "year": 2008,
+        "available": true
+    },
+    {
+        "id": 649,
+        "title": "La profezia finale 1",
+        "author": "George Orwell",
+        "year": 1851,
+        "available": true
+    },
+    {
+        "id": 650,
+        "title": "Le cronache del fuoco 1",
+        "author": "George R. R. Martin",
+        "year": 1942,
+        "available": true
+    },
+    {
+        "id": 651,
+        "title": "Le cronache del fuoco 2",
+        "author": "George R. R. Martin",
+        "year": 1986,
+        "available": false
+    },
+    {
+        "id": 652,
+        "title": "Il segreto del tempo 2",
+        "author": "Umberto Eco",
+        "year": 1979,
+        "available": true
+    },
+    {
+        "id": 653,
+        "title": "Il regno perduto 4",
+        "author": "J. R. R. Tolkien",
+        "year": 2025,
+        "available": false
+    },
+    {
+        "id": 654,
+        "title": "Il risveglio del drago 2",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 2023,
+        "available": false
+    },
+    {
+        "id": 655,
+        "title": "La luce delle stelle 3",
+        "author": "Jane Austen",
+        "year": 1885,
+        "available": false
+    },
+    {
+        "id": 656,
+        "title": "Le cronache del fuoco 2",
+        "author": "Stephen King",
+        "year": 1891,
+        "available": true
+    },
+    {
+        "id": 657,
+        "title": "La vendetta del mago 2",
+        "author": "Isaac Asimov",
+        "year": 1875,
+        "available": true
+    },
+    {
+        "id": 658,
+        "title": "L’ultimo guardiano 1",
+        "author": "Isaac Asimov",
+        "year": 1894,
+        "available": false
+    },
+    {
+        "id": 659,
+        "title": "Il risveglio del drago 5",
+        "author": "Isaac Asimov",
+        "year": 1879,
+        "available": false
+    },
+    {
+        "id": 660,
+        "title": "Il risveglio del drago 4",
+        "author": "J. R. R. Tolkien",
+        "year": 1946,
+        "available": false
+    },
+    {
+        "id": 661,
+        "title": "La luce delle stelle 5",
+        "author": "Isaac Asimov",
+        "year": 1898,
+        "available": false
+    },
+    {
+        "id": 662,
+        "title": "L’ombra del passato 5",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1918,
+        "available": false
+    },
+    {
+        "id": 663,
+        "title": "Il castello dimenticato 3",
+        "author": "J. K. Rowling",
+        "year": 1885,
+        "available": false
+    },
+    {
+        "id": 664,
+        "title": "Il risveglio del drago 2",
+        "author": "George R. R. Martin",
+        "year": 2001,
+        "available": true
+    },
+    {
+        "id": 665,
+        "title": "La luce delle stelle 4",
+        "author": "Umberto Eco",
+        "year": 1956,
+        "available": true
+    },
+    {
+        "id": 666,
+        "title": "Il risveglio del drago 5",
+        "author": "Isaac Asimov",
+        "year": 1869,
+        "available": true
+    },
+    {
+        "id": 667,
+        "title": "Il castello dimenticato 3",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1936,
+        "available": true
+    },
+    {
+        "id": 668,
+        "title": "L’ultimo guardiano 4",
+        "author": "Umberto Eco",
+        "year": 2021,
+        "available": true
+    },
+    {
+        "id": 669,
+        "title": "Il regno perduto 5",
+        "author": "George Orwell",
+        "year": 1892,
+        "available": false
+    },
+    {
+        "id": 670,
+        "title": "Le cronache del fuoco 4",
+        "author": "Umberto Eco",
+        "year": 1935,
+        "available": true
+    },
+    {
+        "id": 671,
+        "title": "Il risveglio del drago 4",
+        "author": "J. K. Rowling",
+        "year": 2001,
+        "available": true
+    },
+    {
+        "id": 672,
+        "title": "L’ultimo guardiano 3",
+        "author": "J. K. Rowling",
+        "year": 1867,
+        "available": false
+    },
+    {
+        "id": 673,
+        "title": "Il castello dimenticato 2",
+        "author": "George Orwell",
+        "year": 1888,
+        "available": true
+    },
+    {
+        "id": 674,
+        "title": "Il risveglio del drago 2",
+        "author": "Stephen King",
+        "year": 1864,
+        "available": true
+    },
+    {
+        "id": 675,
+        "title": "La profezia finale 3",
+        "author": "Stephen King",
+        "year": 1934,
+        "available": false
+    },
+    {
+        "id": 676,
+        "title": "La vendetta del mago 3",
+        "author": "J. K. Rowling",
+        "year": 2004,
+        "available": false
+    },
+    {
+        "id": 677,
+        "title": "Il castello dimenticato 4",
+        "author": "Rick Riordan",
+        "year": 2011,
+        "available": true
+    },
+    {
+        "id": 678,
+        "title": "La vendetta del mago 2",
+        "author": "Stephen King",
+        "year": 1874,
+        "available": true
+    },
+    {
+        "id": 679,
+        "title": "La vendetta del mago 5",
+        "author": "J. K. Rowling",
+        "year": 2007,
+        "available": false
+    },
+    {
+        "id": 680,
+        "title": "Il regno perduto 2",
+        "author": "Isaac Asimov",
+        "year": 1969,
+        "available": true
+    },
+    {
+        "id": 681,
+        "title": "Il regno perduto 4",
+        "author": "Jane Austen",
+        "year": 1964,
+        "available": true
+    },
+    {
+        "id": 682,
+        "title": "La profezia finale 1",
+        "author": "Isaac Asimov",
+        "year": 1943,
+        "available": true
+    },
+    {
+        "id": 683,
+        "title": "La luce delle stelle 3",
+        "author": "Umberto Eco",
+        "year": 1975,
+        "available": true
+    },
+    {
+        "id": 684,
+        "title": "La profezia finale 5",
+        "author": "J. R. R. Tolkien",
+        "year": 2024,
+        "available": true
+    },
+    {
+        "id": 685,
+        "title": "L’ultimo guardiano 5",
+        "author": "Rick Riordan",
+        "year": 1860,
+        "available": true
+    },
+    {
+        "id": 686,
+        "title": "L’ombra del passato 3",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1878,
+        "available": true
+    },
+    {
+        "id": 687,
+        "title": "L’ultimo guardiano 2",
+        "author": "George R. R. Martin",
+        "year": 1909,
+        "available": false
+    },
+    {
+        "id": 688,
+        "title": "Il risveglio del drago 1",
+        "author": "George R. R. Martin",
+        "year": 2008,
+        "available": true
+    },
+    {
+        "id": 689,
+        "title": "L’ombra del passato 2",
+        "author": "Umberto Eco",
+        "year": 1922,
+        "available": false
+    },
+    {
+        "id": 690,
+        "title": "Il segreto del tempo 1",
+        "author": "Rick Riordan",
+        "year": 1913,
+        "available": true
+    },
+    {
+        "id": 691,
+        "title": "Il risveglio del drago 2",
+        "author": "Isaac Asimov",
+        "year": 2024,
+        "available": false
+    },
+    {
+        "id": 692,
+        "title": "Il risveglio del drago 3",
+        "author": "Stephen King",
+        "year": 1875,
+        "available": false
+    },
+    {
+        "id": 693,
+        "title": "La profezia finale 2",
+        "author": "Rick Riordan",
+        "year": 1922,
+        "available": true
+    },
+    {
+        "id": 694,
+        "title": "Il risveglio del drago 3",
+        "author": "J. R. R. Tolkien",
+        "year": 1994,
+        "available": false
+    },
+    {
+        "id": 695,
+        "title": "Il segreto del tempo 4",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1929,
+        "available": false
+    },
+    {
+        "id": 696,
+        "title": "La luce delle stelle 2",
+        "author": "Rick Riordan",
+        "year": 1967,
+        "available": false
+    },
+    {
+        "id": 697,
+        "title": "La profezia finale 2",
+        "author": "Jane Austen",
+        "year": 1901,
+        "available": true
+    },
+    {
+        "id": 698,
+        "title": "Il regno perduto 3",
+        "author": "Stephen King",
+        "year": 1959,
+        "available": true
+    },
+    {
+        "id": 699,
+        "title": "La vendetta del mago 5",
+        "author": "Jane Austen",
+        "year": 2016,
+        "available": false
+    },
+    {
+        "id": 700,
+        "title": "La vendetta del mago 2",
+        "author": "Isaac Asimov",
+        "year": 2005,
+        "available": true
+    },
+    {
+        "id": 701,
+        "title": "Il risveglio del drago 5",
+        "author": "Stephen King",
+        "year": 1900,
+        "available": false
+    },
+    {
+        "id": 702,
+        "title": "L’ombra del passato 3",
+        "author": "George R. R. Martin",
+        "year": 1949,
+        "available": true
+    },
+    {
+        "id": 703,
+        "title": "Il segreto del tempo 5",
+        "author": "Jane Austen",
+        "year": 1956,
+        "available": true
+    },
+    {
+        "id": 704,
+        "title": "L’ombra del passato 2",
+        "author": "Isaac Asimov",
+        "year": 1955,
+        "available": true
+    },
+    {
+        "id": 705,
+        "title": "La profezia finale 3",
+        "author": "J. R. R. Tolkien",
+        "year": 1956,
+        "available": false
+    },
+    {
+        "id": 706,
+        "title": "La vendetta del mago 1",
+        "author": "J. R. R. Tolkien",
+        "year": 2020,
+        "available": true
+    },
+    {
+        "id": 707,
+        "title": "Le cronache del fuoco 3",
+        "author": "J. K. Rowling",
+        "year": 1862,
+        "available": false
+    },
+    {
+        "id": 708,
+        "title": "Il castello dimenticato 2",
+        "author": "Umberto Eco",
+        "year": 1881,
+        "available": true
+    },
+    {
+        "id": 709,
+        "title": "Il castello dimenticato 2",
+        "author": "Rick Riordan",
+        "year": 1959,
+        "available": true
+    },
+    {
+        "id": 710,
+        "title": "L’ultimo guardiano 2",
+        "author": "Rick Riordan",
+        "year": 1873,
+        "available": true
+    },
+    {
+        "id": 711,
+        "title": "La profezia finale 3",
+        "author": "Jane Austen",
+        "year": 1906,
+        "available": true
+    },
+    {
+        "id": 712,
+        "title": "La luce delle stelle 2",
+        "author": "Jane Austen",
+        "year": 1873,
+        "available": true
+    },
+    {
+        "id": 713,
+        "title": "La profezia finale 5",
+        "author": "J. K. Rowling",
+        "year": 1914,
+        "available": true
+    },
+    {
+        "id": 714,
+        "title": "Le cronache del fuoco 5",
+        "author": "George Orwell",
+        "year": 1944,
+        "available": false
+    },
+    {
+        "id": 715,
+        "title": "Il regno perduto 3",
+        "author": "Rick Riordan",
+        "year": 1990,
+        "available": false
+    },
+    {
+        "id": 716,
+        "title": "L’ombra del passato 3",
+        "author": "Jane Austen",
+        "year": 1891,
+        "available": true
+    },
+    {
+        "id": 717,
+        "title": "La vendetta del mago 5",
+        "author": "J. K. Rowling",
+        "year": 1975,
+        "available": true
+    },
+    {
+        "id": 718,
+        "title": "Il regno perduto 5",
+        "author": "Isaac Asimov",
+        "year": 1975,
+        "available": false
+    },
+    {
+        "id": 719,
+        "title": "Il regno perduto 2",
+        "author": "J. K. Rowling",
+        "year": 1851,
+        "available": true
+    },
+    {
+        "id": 720,
+        "title": "Il segreto del tempo 1",
+        "author": "Jane Austen",
+        "year": 1893,
+        "available": false
+    },
+    {
+        "id": 721,
+        "title": "Il segreto del tempo 3",
+        "author": "Jane Austen",
+        "year": 2005,
+        "available": false
+    },
+    {
+        "id": 722,
+        "title": "Il risveglio del drago 3",
+        "author": "Rick Riordan",
+        "year": 1960,
+        "available": false
+    },
+    {
+        "id": 723,
+        "title": "Il castello dimenticato 4",
+        "author": "Isaac Asimov",
+        "year": 1993,
+        "available": true
+    },
+    {
+        "id": 724,
+        "title": "L’ombra del passato 2",
+        "author": "Isaac Asimov",
+        "year": 1942,
+        "available": true
+    },
+    {
+        "id": 725,
+        "title": "Le cronache del fuoco 5",
+        "author": "Stephen King",
+        "year": 1940,
+        "available": false
+    },
+    {
+        "id": 726,
+        "title": "La luce delle stelle 2",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1887,
+        "available": false
+    },
+    {
+        "id": 727,
+        "title": "Il regno perduto 2",
+        "author": "Umberto Eco",
+        "year": 1876,
+        "available": false
+    },
+    {
+        "id": 728,
+        "title": "L’ultimo guardiano 1",
+        "author": "George Orwell",
+        "year": 1915,
+        "available": true
+    },
+    {
+        "id": 729,
+        "title": "La vendetta del mago 4",
+        "author": "Umberto Eco",
+        "year": 1928,
+        "available": false
+    },
+    {
+        "id": 730,
+        "title": "Il segreto del tempo 5",
+        "author": "Umberto Eco",
+        "year": 1926,
+        "available": true
+    },
+    {
+        "id": 731,
+        "title": "La vendetta del mago 1",
+        "author": "Umberto Eco",
+        "year": 1963,
+        "available": true
+    },
+    {
+        "id": 732,
+        "title": "Il regno perduto 1",
+        "author": "J. K. Rowling",
+        "year": 1903,
+        "available": true
+    },
+    {
+        "id": 733,
+        "title": "Il castello dimenticato 1",
+        "author": "Umberto Eco",
+        "year": 1886,
+        "available": true
+    },
+    {
+        "id": 734,
+        "title": "Il regno perduto 1",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1889,
+        "available": true
+    },
+    {
+        "id": 735,
+        "title": "La luce delle stelle 4",
+        "author": "J. K. Rowling",
+        "year": 1976,
+        "available": true
+    },
+    {
+        "id": 736,
+        "title": "Il segreto del tempo 4",
+        "author": "Rick Riordan",
+        "year": 1908,
+        "available": true
+    },
+    {
+        "id": 737,
+        "title": "La profezia finale 3",
+        "author": "J. R. R. Tolkien",
+        "year": 1989,
+        "available": false
+    },
+    {
+        "id": 738,
+        "title": "Le cronache del fuoco 5",
+        "author": "George Orwell",
+        "year": 1931,
+        "available": false
+    },
+    {
+        "id": 739,
+        "title": "La profezia finale 1",
+        "author": "Rick Riordan",
+        "year": 1966,
+        "available": false
+    },
+    {
+        "id": 740,
+        "title": "Le cronache del fuoco 2",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1932,
+        "available": true
+    },
+    {
+        "id": 741,
+        "title": "Il segreto del tempo 1",
+        "author": "J. R. R. Tolkien",
+        "year": 1972,
+        "available": false
+    },
+    {
+        "id": 742,
+        "title": "La luce delle stelle 2",
+        "author": "J. K. Rowling",
+        "year": 2014,
+        "available": false
+    },
+    {
+        "id": 743,
+        "title": "La vendetta del mago 1",
+        "author": "J. R. R. Tolkien",
+        "year": 1887,
+        "available": true
+    },
+    {
+        "id": 744,
+        "title": "Il regno perduto 5",
+        "author": "Umberto Eco",
+        "year": 2010,
+        "available": false
+    },
+    {
+        "id": 745,
+        "title": "Il regno perduto 2",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1856,
+        "available": true
+    },
+    {
+        "id": 746,
+        "title": "Il regno perduto 1",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1960,
+        "available": true
+    },
+    {
+        "id": 747,
+        "title": "Il regno perduto 5",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1874,
+        "available": true
+    },
+    {
+        "id": 748,
+        "title": "Il castello dimenticato 4",
+        "author": "Umberto Eco",
+        "year": 1906,
+        "available": true
+    },
+    {
+        "id": 749,
+        "title": "La vendetta del mago 1",
+        "author": "J. K. Rowling",
+        "year": 2022,
+        "available": false
+    },
+    {
+        "id": 750,
+        "title": "Il regno perduto 5",
+        "author": "George R. R. Martin",
+        "year": 1974,
+        "available": false
+    },
+    {
+        "id": 751,
+        "title": "Il castello dimenticato 4",
+        "author": "Jane Austen",
+        "year": 1993,
+        "available": false
+    },
+    {
+        "id": 752,
+        "title": "Il regno perduto 1",
+        "author": "Umberto Eco",
+        "year": 2009,
+        "available": false
+    },
+    {
+        "id": 753,
+        "title": "Le cronache del fuoco 1",
+        "author": "George Orwell",
+        "year": 1919,
+        "available": true
+    },
+    {
+        "id": 754,
+        "title": "Il segreto del tempo 3",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1992,
+        "available": true
+    },
+    {
+        "id": 755,
+        "title": "Il castello dimenticato 2",
+        "author": "Stephen King",
+        "year": 2015,
+        "available": false
+    },
+    {
+        "id": 756,
+        "title": "Le cronache del fuoco 2",
+        "author": "Jane Austen",
+        "year": 1923,
+        "available": true
+    },
+    {
+        "id": 757,
+        "title": "Le cronache del fuoco 1",
+        "author": "Umberto Eco",
+        "year": 1879,
+        "available": true
+    },
+    {
+        "id": 758,
+        "title": "Il risveglio del drago 2",
+        "author": "Stephen King",
+        "year": 1898,
+        "available": true
+    },
+    {
+        "id": 759,
+        "title": "Il regno perduto 3",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1914,
+        "available": true
+    },
+    {
+        "id": 760,
+        "title": "Il castello dimenticato 1",
+        "author": "J. R. R. Tolkien",
+        "year": 1959,
+        "available": true
+    },
+    {
+        "id": 761,
+        "title": "Il segreto del tempo 2",
+        "author": "Isaac Asimov",
+        "year": 1940,
+        "available": false
+    },
+    {
+        "id": 762,
+        "title": "Il segreto del tempo 5",
+        "author": "Isaac Asimov",
+        "year": 2000,
+        "available": false
+    },
+    {
+        "id": 763,
+        "title": "L’ombra del passato 5",
+        "author": "J. R. R. Tolkien",
+        "year": 1908,
+        "available": true
+    },
+    {
+        "id": 764,
+        "title": "L’ultimo guardiano 4",
+        "author": "George Orwell",
+        "year": 1878,
+        "available": true
+    },
+    {
+        "id": 765,
+        "title": "Il castello dimenticato 1",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1861,
+        "available": false
+    },
+    {
+        "id": 766,
+        "title": "Il risveglio del drago 1",
+        "author": "Umberto Eco",
+        "year": 1857,
+        "available": true
+    },
+    {
+        "id": 767,
+        "title": "Le cronache del fuoco 1",
+        "author": "Stephen King",
+        "year": 2013,
+        "available": false
+    },
+    {
+        "id": 768,
+        "title": "Il segreto del tempo 2",
+        "author": "George Orwell",
+        "year": 1914,
+        "available": true
+    },
+    {
+        "id": 769,
+        "title": "Il risveglio del drago 5",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1916,
+        "available": true
+    },
+    {
+        "id": 770,
+        "title": "Le cronache del fuoco 1",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 2005,
+        "available": false
+    },
+    {
+        "id": 771,
+        "title": "Le cronache del fuoco 2",
+        "author": "Umberto Eco",
+        "year": 1970,
+        "available": false
+    },
+    {
+        "id": 772,
+        "title": "La luce delle stelle 2",
+        "author": "J. R. R. Tolkien",
+        "year": 2002,
+        "available": false
+    },
+    {
+        "id": 773,
+        "title": "La vendetta del mago 3",
+        "author": "George R. R. Martin",
+        "year": 1937,
+        "available": false
+    },
+    {
+        "id": 774,
+        "title": "L’ombra del passato 1",
+        "author": "Rick Riordan",
+        "year": 1947,
+        "available": true
+    },
+    {
+        "id": 775,
+        "title": "Il regno perduto 1",
+        "author": "Stephen King",
+        "year": 1891,
+        "available": false
+    },
+    {
+        "id": 776,
+        "title": "Il segreto del tempo 4",
+        "author": "J. K. Rowling",
+        "year": 1964,
+        "available": false
+    },
+    {
+        "id": 777,
+        "title": "L’ultimo guardiano 5",
+        "author": "Stephen King",
+        "year": 1955,
+        "available": true
+    },
+    {
+        "id": 778,
+        "title": "L’ombra del passato 5",
+        "author": "Jane Austen",
+        "year": 1976,
+        "available": false
+    },
+    {
+        "id": 779,
+        "title": "La profezia finale 5",
+        "author": "Stephen King",
+        "year": 1907,
+        "available": false
+    },
+    {
+        "id": 780,
+        "title": "La profezia finale 4",
+        "author": "J. R. R. Tolkien",
+        "year": 1999,
+        "available": true
+    },
+    {
+        "id": 781,
+        "title": "La vendetta del mago 2",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1914,
+        "available": false
+    },
+    {
+        "id": 782,
+        "title": "Il castello dimenticato 3",
+        "author": "J. K. Rowling",
+        "year": 1905,
+        "available": false
+    },
+    {
+        "id": 783,
+        "title": "La vendetta del mago 3",
+        "author": "Rick Riordan",
+        "year": 1860,
+        "available": true
+    },
+    {
+        "id": 784,
+        "title": "Il segreto del tempo 5",
+        "author": "George Orwell",
+        "year": 1930,
+        "available": true
+    },
+    {
+        "id": 785,
+        "title": "Il castello dimenticato 4",
+        "author": "George Orwell",
+        "year": 2025,
+        "available": true
+    },
+    {
+        "id": 786,
+        "title": "La vendetta del mago 2",
+        "author": "Umberto Eco",
+        "year": 2014,
+        "available": false
+    },
+    {
+        "id": 787,
+        "title": "La luce delle stelle 1",
+        "author": "Stephen King",
+        "year": 2007,
+        "available": true
+    },
+    {
+        "id": 788,
+        "title": "Il segreto del tempo 5",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1995,
+        "available": true
+    },
+    {
+        "id": 789,
+        "title": "Le cronache del fuoco 4",
+        "author": "George Orwell",
+        "year": 1925,
+        "available": false
+    },
+    {
+        "id": 790,
+        "title": "Il segreto del tempo 3",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1870,
+        "available": true
+    },
+    {
+        "id": 791,
+        "title": "La profezia finale 3",
+        "author": "Jane Austen",
+        "year": 1978,
+        "available": false
+    },
+    {
+        "id": 792,
+        "title": "La luce delle stelle 1",
+        "author": "Isaac Asimov",
+        "year": 1903,
+        "available": false
+    },
+    {
+        "id": 793,
+        "title": "La vendetta del mago 4",
+        "author": "J. K. Rowling",
+        "year": 1865,
+        "available": false
+    },
+    {
+        "id": 794,
+        "title": "La luce delle stelle 1",
+        "author": "J. K. Rowling",
+        "year": 1976,
+        "available": false
+    },
+    {
+        "id": 795,
+        "title": "La profezia finale 2",
+        "author": "Jane Austen",
+        "year": 1873,
+        "available": false
+    },
+    {
+        "id": 796,
+        "title": "Le cronache del fuoco 1",
+        "author": "Stephen King",
+        "year": 1996,
+        "available": true
+    },
+    {
+        "id": 797,
+        "title": "Il risveglio del drago 5",
+        "author": "Umberto Eco",
+        "year": 1869,
+        "available": false
+    },
+    {
+        "id": 798,
+        "title": "Il regno perduto 4",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1893,
+        "available": false
+    },
+    {
+        "id": 799,
+        "title": "La luce delle stelle 2",
+        "author": "Umberto Eco",
+        "year": 2009,
+        "available": false
+    },
+    {
+        "id": 800,
+        "title": "L’ombra del passato 2",
+        "author": "George R. R. Martin",
+        "year": 1879,
+        "available": true
+    },
+    {
+        "id": 801,
+        "title": "Le cronache del fuoco 5",
+        "author": "J. K. Rowling",
+        "year": 1996,
+        "available": true
+    },
+    {
+        "id": 802,
+        "title": "La vendetta del mago 2",
+        "author": "Stephen King",
+        "year": 1930,
+        "available": false
+    },
+    {
+        "id": 803,
+        "title": "Il regno perduto 1",
+        "author": "George R. R. Martin",
+        "year": 1862,
+        "available": true
+    },
+    {
+        "id": 804,
+        "title": "L’ultimo guardiano 5",
+        "author": "Rick Riordan",
+        "year": 1895,
+        "available": true
+    },
+    {
+        "id": 805,
+        "title": "Il segreto del tempo 5",
+        "author": "George R. R. Martin",
+        "year": 1969,
+        "available": true
+    },
+    {
+        "id": 806,
+        "title": "Le cronache del fuoco 5",
+        "author": "Rick Riordan",
+        "year": 1969,
+        "available": false
+    },
+    {
+        "id": 807,
+        "title": "Il castello dimenticato 5",
+        "author": "Jane Austen",
+        "year": 1969,
+        "available": false
+    },
+    {
+        "id": 808,
+        "title": "L’ombra del passato 2",
+        "author": "George Orwell",
+        "year": 1909,
+        "available": false
+    },
+    {
+        "id": 809,
+        "title": "Le cronache del fuoco 2",
+        "author": "Jane Austen",
+        "year": 1850,
+        "available": true
+    },
+    {
+        "id": 810,
+        "title": "Le cronache del fuoco 1",
+        "author": "Rick Riordan",
+        "year": 1952,
+        "available": false
+    },
+    {
+        "id": 811,
+        "title": "La vendetta del mago 2",
+        "author": "Stephen King",
+        "year": 1935,
+        "available": true
+    },
+    {
+        "id": 812,
+        "title": "Il risveglio del drago 2",
+        "author": "George R. R. Martin",
+        "year": 1914,
+        "available": false
+    },
+    {
+        "id": 813,
+        "title": "Il castello dimenticato 5",
+        "author": "George R. R. Martin",
+        "year": 1890,
+        "available": true
+    },
+    {
+        "id": 814,
+        "title": "La luce delle stelle 3",
+        "author": "Isaac Asimov",
+        "year": 1942,
+        "available": false
+    },
+    {
+        "id": 815,
+        "title": "L’ultimo guardiano 5",
+        "author": "Jane Austen",
+        "year": 2008,
+        "available": false
+    },
+    {
+        "id": 816,
+        "title": "Il risveglio del drago 1",
+        "author": "Isaac Asimov",
+        "year": 2007,
+        "available": false
+    },
+    {
+        "id": 817,
+        "title": "Il regno perduto 3",
+        "author": "J. R. R. Tolkien",
+        "year": 1943,
+        "available": true
+    },
+    {
+        "id": 818,
+        "title": "Il segreto del tempo 3",
+        "author": "Stephen King",
+        "year": 1850,
+        "available": true
+    },
+    {
+        "id": 819,
+        "title": "Le cronache del fuoco 1",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1868,
+        "available": true
+    },
+    {
+        "id": 820,
+        "title": "L’ombra del passato 4",
+        "author": "Jane Austen",
+        "year": 1968,
+        "available": true
+    },
+    {
+        "id": 821,
+        "title": "L’ultimo guardiano 5",
+        "author": "Isaac Asimov",
+        "year": 1883,
+        "available": true
+    },
+    {
+        "id": 822,
+        "title": "La profezia finale 5",
+        "author": "George R. R. Martin",
+        "year": 1900,
+        "available": true
+    },
+    {
+        "id": 823,
+        "title": "Il segreto del tempo 2",
+        "author": "J. R. R. Tolkien",
+        "year": 1931,
+        "available": false
+    },
+    {
+        "id": 824,
+        "title": "Il castello dimenticato 4",
+        "author": "J. K. Rowling",
+        "year": 1906,
+        "available": true
+    },
+    {
+        "id": 825,
+        "title": "Il segreto del tempo 2",
+        "author": "George R. R. Martin",
+        "year": 1901,
+        "available": false
+    },
+    {
+        "id": 826,
+        "title": "L’ultimo guardiano 3",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1850,
+        "available": true
+    },
+    {
+        "id": 827,
+        "title": "La luce delle stelle 1",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1910,
+        "available": false
+    },
+    {
+        "id": 828,
+        "title": "La luce delle stelle 2",
+        "author": "George R. R. Martin",
+        "year": 1941,
+        "available": true
+    },
+    {
+        "id": 829,
+        "title": "Il castello dimenticato 5",
+        "author": "George R. R. Martin",
+        "year": 1943,
+        "available": true
+    },
+    {
+        "id": 830,
+        "title": "La profezia finale 5",
+        "author": "Rick Riordan",
+        "year": 1954,
+        "available": false
+    },
+    {
+        "id": 831,
+        "title": "Il regno perduto 2",
+        "author": "Jane Austen",
+        "year": 1900,
+        "available": true
+    },
+    {
+        "id": 832,
+        "title": "Le cronache del fuoco 2",
+        "author": "J. K. Rowling",
+        "year": 1921,
+        "available": false
+    },
+    {
+        "id": 833,
+        "title": "Il risveglio del drago 3",
+        "author": "J. R. R. Tolkien",
+        "year": 1964,
+        "available": false
+    },
+    {
+        "id": 834,
+        "title": "Il castello dimenticato 3",
+        "author": "Stephen King",
+        "year": 1929,
+        "available": true
+    },
+    {
+        "id": 835,
+        "title": "L’ombra del passato 2",
+        "author": "Stephen King",
+        "year": 1890,
+        "available": true
+    },
+    {
+        "id": 836,
+        "title": "Il risveglio del drago 2",
+        "author": "J. R. R. Tolkien",
+        "year": 1978,
+        "available": false
+    },
+    {
+        "id": 837,
+        "title": "La luce delle stelle 3",
+        "author": "J. R. R. Tolkien",
+        "year": 2005,
+        "available": true
+    },
+    {
+        "id": 838,
+        "title": "La luce delle stelle 4",
+        "author": "George R. R. Martin",
+        "year": 1928,
+        "available": false
+    },
+    {
+        "id": 839,
+        "title": "Il regno perduto 4",
+        "author": "Stephen King",
+        "year": 1982,
+        "available": true
+    },
+    {
+        "id": 840,
+        "title": "Il regno perduto 3",
+        "author": "Jane Austen",
+        "year": 1908,
+        "available": true
+    },
+    {
+        "id": 841,
+        "title": "Il castello dimenticato 5",
+        "author": "George R. R. Martin",
+        "year": 1922,
+        "available": false
+    },
+    {
+        "id": 842,
+        "title": "Il risveglio del drago 4",
+        "author": "J. R. R. Tolkien",
+        "year": 1949,
+        "available": false
+    },
+    {
+        "id": 843,
+        "title": "Il regno perduto 2",
+        "author": "George R. R. Martin",
+        "year": 1942,
+        "available": true
+    },
+    {
+        "id": 844,
+        "title": "Il risveglio del drago 3",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1889,
+        "available": false
+    },
+    {
+        "id": 845,
+        "title": "La luce delle stelle 5",
+        "author": "Stephen King",
+        "year": 1968,
+        "available": false
+    },
+    {
+        "id": 846,
+        "title": "L’ultimo guardiano 4",
+        "author": "Isaac Asimov",
+        "year": 2004,
+        "available": true
+    },
+    {
+        "id": 847,
+        "title": "Il segreto del tempo 5",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1983,
+        "available": true
+    },
+    {
+        "id": 848,
+        "title": "Il regno perduto 1",
+        "author": "J. K. Rowling",
+        "year": 1953,
+        "available": true
+    },
+    {
+        "id": 849,
+        "title": "La profezia finale 3",
+        "author": "Umberto Eco",
+        "year": 1912,
+        "available": false
+    },
+    {
+        "id": 850,
+        "title": "Il castello dimenticato 5",
+        "author": "Isaac Asimov",
+        "year": 1952,
+        "available": true
+    },
+    {
+        "id": 851,
+        "title": "Il segreto del tempo 4",
+        "author": "Umberto Eco",
+        "year": 1859,
+        "available": false
+    },
+    {
+        "id": 852,
+        "title": "La vendetta del mago 2",
+        "author": "Rick Riordan",
+        "year": 1865,
+        "available": true
+    },
+    {
+        "id": 853,
+        "title": "Il segreto del tempo 1",
+        "author": "J. R. R. Tolkien",
+        "year": 1905,
+        "available": false
+    },
+    {
+        "id": 854,
+        "title": "La vendetta del mago 2",
+        "author": "J. R. R. Tolkien",
+        "year": 2008,
+        "available": true
+    },
+    {
+        "id": 855,
+        "title": "L’ombra del passato 3",
+        "author": "Isaac Asimov",
+        "year": 1909,
+        "available": true
+    },
+    {
+        "id": 856,
+        "title": "La luce delle stelle 4",
+        "author": "Jane Austen",
+        "year": 1889,
+        "available": true
+    },
+    {
+        "id": 857,
+        "title": "La profezia finale 1",
+        "author": "George R. R. Martin",
+        "year": 1961,
+        "available": false
+    },
+    {
+        "id": 858,
+        "title": "Le cronache del fuoco 4",
+        "author": "Jane Austen",
+        "year": 1945,
+        "available": false
+    },
+    {
+        "id": 859,
+        "title": "La profezia finale 4",
+        "author": "Rick Riordan",
+        "year": 1972,
+        "available": false
+    },
+    {
+        "id": 860,
+        "title": "La luce delle stelle 3",
+        "author": "J. R. R. Tolkien",
+        "year": 1990,
+        "available": false
+    },
+    {
+        "id": 861,
+        "title": "Il castello dimenticato 5",
+        "author": "George R. R. Martin",
+        "year": 1874,
+        "available": true
+    },
+    {
+        "id": 862,
+        "title": "La luce delle stelle 5",
+        "author": "Umberto Eco",
+        "year": 2023,
+        "available": false
+    },
+    {
+        "id": 863,
+        "title": "La vendetta del mago 5",
+        "author": "George Orwell",
+        "year": 1955,
+        "available": true
+    },
+    {
+        "id": 864,
+        "title": "Il castello dimenticato 3",
+        "author": "George R. R. Martin",
+        "year": 1968,
+        "available": false
+    },
+    {
+        "id": 865,
+        "title": "Il castello dimenticato 2",
+        "author": "Rick Riordan",
+        "year": 1914,
+        "available": false
+    },
+    {
+        "id": 866,
+        "title": "Il castello dimenticato 4",
+        "author": "Jane Austen",
+        "year": 1967,
+        "available": true
+    },
+    {
+        "id": 867,
+        "title": "Il risveglio del drago 2",
+        "author": "George R. R. Martin",
+        "year": 2006,
+        "available": false
+    },
+    {
+        "id": 868,
+        "title": "La profezia finale 4",
+        "author": "Rick Riordan",
+        "year": 1870,
+        "available": false
+    },
+    {
+        "id": 869,
+        "title": "Le cronache del fuoco 1",
+        "author": "J. K. Rowling",
+        "year": 2017,
+        "available": true
+    },
+    {
+        "id": 870,
+        "title": "Il castello dimenticato 2",
+        "author": "Rick Riordan",
+        "year": 1927,
+        "available": false
+    },
+    {
+        "id": 871,
+        "title": "Il segreto del tempo 5",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1940,
+        "available": false
+    },
+    {
+        "id": 872,
+        "title": "La profezia finale 5",
+        "author": "Jane Austen",
+        "year": 1893,
+        "available": false
+    },
+    {
+        "id": 873,
+        "title": "La vendetta del mago 3",
+        "author": "George R. R. Martin",
+        "year": 1964,
+        "available": false
+    },
+    {
+        "id": 874,
+        "title": "La luce delle stelle 1",
+        "author": "Rick Riordan",
+        "year": 2011,
+        "available": false
+    },
+    {
+        "id": 875,
+        "title": "La profezia finale 3",
+        "author": "Isaac Asimov",
+        "year": 1988,
+        "available": true
+    },
+    {
+        "id": 876,
+        "title": "Le cronache del fuoco 1",
+        "author": "Rick Riordan",
+        "year": 1889,
+        "available": false
+    },
+    {
+        "id": 877,
+        "title": "L’ultimo guardiano 2",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 2009,
+        "available": false
+    },
+    {
+        "id": 878,
+        "title": "La profezia finale 3",
+        "author": "J. R. R. Tolkien",
+        "year": 1905,
+        "available": false
+    },
+    {
+        "id": 879,
+        "title": "Il regno perduto 5",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1972,
+        "available": false
+    },
+    {
+        "id": 880,
+        "title": "Il risveglio del drago 4",
+        "author": "Umberto Eco",
+        "year": 1959,
+        "available": true
+    },
+    {
+        "id": 881,
+        "title": "L’ombra del passato 3",
+        "author": "George R. R. Martin",
+        "year": 2018,
+        "available": false
+    },
+    {
+        "id": 882,
+        "title": "Il risveglio del drago 1",
+        "author": "Jane Austen",
+        "year": 1878,
+        "available": true
+    },
+    {
+        "id": 883,
+        "title": "Il regno perduto 4",
+        "author": "Rick Riordan",
+        "year": 1989,
+        "available": false
+    },
+    {
+        "id": 884,
+        "title": "Le cronache del fuoco 3",
+        "author": "J. R. R. Tolkien",
+        "year": 2010,
+        "available": true
+    },
+    {
+        "id": 885,
+        "title": "La profezia finale 1",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1985,
+        "available": true
+    },
+    {
+        "id": 886,
+        "title": "La profezia finale 3",
+        "author": "George R. R. Martin",
+        "year": 1908,
+        "available": true
+    },
+    {
+        "id": 887,
+        "title": "Il castello dimenticato 4",
+        "author": "Umberto Eco",
+        "year": 1863,
+        "available": false
+    },
+    {
+        "id": 888,
+        "title": "Il risveglio del drago 3",
+        "author": "George R. R. Martin",
+        "year": 1905,
+        "available": true
+    },
+    {
+        "id": 889,
+        "title": "L’ultimo guardiano 4",
+        "author": "J. K. Rowling",
+        "year": 1984,
+        "available": true
+    },
+    {
+        "id": 890,
+        "title": "La profezia finale 3",
+        "author": "Isaac Asimov",
+        "year": 1972,
+        "available": true
+    },
+    {
+        "id": 891,
+        "title": "Il risveglio del drago 5",
+        "author": "J. R. R. Tolkien",
+        "year": 1916,
+        "available": true
+    },
+    {
+        "id": 892,
+        "title": "La profezia finale 3",
+        "author": "Umberto Eco",
+        "year": 1897,
+        "available": true
+    },
+    {
+        "id": 893,
+        "title": "Il segreto del tempo 1",
+        "author": "Stephen King",
+        "year": 2023,
+        "available": false
+    },
+    {
+        "id": 894,
+        "title": "La vendetta del mago 2",
+        "author": "Stephen King",
+        "year": 1853,
+        "available": false
+    },
+    {
+        "id": 895,
+        "title": "L’ombra del passato 4",
+        "author": "Jane Austen",
+        "year": 1925,
+        "available": true
+    },
+    {
+        "id": 896,
+        "title": "Il regno perduto 5",
+        "author": "Isaac Asimov",
+        "year": 2012,
+        "available": true
+    },
+    {
+        "id": 897,
+        "title": "Il segreto del tempo 1",
+        "author": "George Orwell",
+        "year": 1986,
+        "available": false
+    },
+    {
+        "id": 898,
+        "title": "Il segreto del tempo 3",
+        "author": "Stephen King",
+        "year": 1997,
+        "available": false
+    },
+    {
+        "id": 899,
+        "title": "Il segreto del tempo 1",
+        "author": "Stephen King",
+        "year": 1888,
+        "available": true
+    },
+    {
+        "id": 900,
+        "title": "La profezia finale 3",
+        "author": "Isaac Asimov",
+        "year": 1865,
+        "available": true
+    },
+    {
+        "id": 901,
+        "title": "Il segreto del tempo 2",
+        "author": "Isaac Asimov",
+        "year": 1899,
+        "available": false
+    },
+    {
+        "id": 902,
+        "title": "Il regno perduto 2",
+        "author": "George Orwell",
+        "year": 1892,
+        "available": false
+    },
+    {
+        "id": 903,
+        "title": "La luce delle stelle 3",
+        "author": "Rick Riordan",
+        "year": 1878,
+        "available": false
+    },
+    {
+        "id": 904,
+        "title": "Il castello dimenticato 4",
+        "author": "J. R. R. Tolkien",
+        "year": 1978,
+        "available": true
+    },
+    {
+        "id": 905,
+        "title": "La profezia finale 4",
+        "author": "George R. R. Martin",
+        "year": 1855,
+        "available": false
+    },
+    {
+        "id": 906,
+        "title": "L’ultimo guardiano 2",
+        "author": "J. K. Rowling",
+        "year": 1944,
+        "available": true
+    },
+    {
+        "id": 907,
+        "title": "L’ultimo guardiano 2",
+        "author": "Isaac Asimov",
+        "year": 1952,
+        "available": false
+    },
+    {
+        "id": 908,
+        "title": "L’ultimo guardiano 1",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 2019,
+        "available": true
+    },
+    {
+        "id": 909,
+        "title": "Il segreto del tempo 4",
+        "author": "Stephen King",
+        "year": 1970,
+        "available": true
+    },
+    {
+        "id": 910,
+        "title": "La luce delle stelle 2",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1854,
+        "available": false
+    },
+    {
+        "id": 911,
+        "title": "L’ultimo guardiano 4",
+        "author": "J. R. R. Tolkien",
+        "year": 1916,
+        "available": true
+    },
+    {
+        "id": 912,
+        "title": "L’ombra del passato 4",
+        "author": "Rick Riordan",
+        "year": 2005,
+        "available": false
+    },
+    {
+        "id": 913,
+        "title": "Il regno perduto 4",
+        "author": "Jane Austen",
+        "year": 2001,
+        "available": false
+    },
+    {
+        "id": 914,
+        "title": "Il castello dimenticato 1",
+        "author": "George Orwell",
+        "year": 1907,
+        "available": false
+    },
+    {
+        "id": 915,
+        "title": "L’ultimo guardiano 2",
+        "author": "George R. R. Martin",
+        "year": 1916,
+        "available": true
+    },
+    {
+        "id": 916,
+        "title": "L’ultimo guardiano 1",
+        "author": "George R. R. Martin",
+        "year": 1908,
+        "available": true
+    },
+    {
+        "id": 917,
+        "title": "La vendetta del mago 5",
+        "author": "Isaac Asimov",
+        "year": 1954,
+        "available": false
+    },
+    {
+        "id": 918,
+        "title": "L’ombra del passato 1",
+        "author": "George R. R. Martin",
+        "year": 1897,
+        "available": false
+    },
+    {
+        "id": 919,
+        "title": "Il regno perduto 1",
+        "author": "George Orwell",
+        "year": 1987,
+        "available": true
+    },
+    {
+        "id": 920,
+        "title": "Il castello dimenticato 2",
+        "author": "J. K. Rowling",
+        "year": 1917,
+        "available": false
+    },
+    {
+        "id": 921,
+        "title": "Il regno perduto 5",
+        "author": "J. R. R. Tolkien",
+        "year": 1938,
+        "available": false
+    },
+    {
+        "id": 922,
+        "title": "Il castello dimenticato 3",
+        "author": "Rick Riordan",
+        "year": 1959,
+        "available": true
+    },
+    {
+        "id": 923,
+        "title": "L’ombra del passato 1",
+        "author": "George Orwell",
+        "year": 1874,
+        "available": false
+    },
+    {
+        "id": 924,
+        "title": "La luce delle stelle 4",
+        "author": "George Orwell",
+        "year": 1872,
+        "available": true
+    },
+    {
+        "id": 925,
+        "title": "Il segreto del tempo 3",
+        "author": "Umberto Eco",
+        "year": 1986,
+        "available": true
+    },
+    {
+        "id": 926,
+        "title": "Le cronache del fuoco 5",
+        "author": "Rick Riordan",
+        "year": 1857,
+        "available": false
+    },
+    {
+        "id": 927,
+        "title": "Il castello dimenticato 2",
+        "author": "Rick Riordan",
+        "year": 1954,
+        "available": true
+    },
+    {
+        "id": 928,
+        "title": "Il risveglio del drago 4",
+        "author": "George R. R. Martin",
+        "year": 1890,
+        "available": true
+    },
+    {
+        "id": 929,
+        "title": "Il risveglio del drago 3",
+        "author": "J. R. R. Tolkien",
+        "year": 2018,
+        "available": false
+    },
+    {
+        "id": 930,
+        "title": "L’ombra del passato 5",
+        "author": "George Orwell",
+        "year": 1936,
+        "available": false
+    },
+    {
+        "id": 931,
+        "title": "Il castello dimenticato 5",
+        "author": "J. R. R. Tolkien",
+        "year": 1972,
+        "available": false
+    },
+    {
+        "id": 932,
+        "title": "Il regno perduto 3",
+        "author": "Rick Riordan",
+        "year": 1977,
+        "available": false
+    },
+    {
+        "id": 933,
+        "title": "La profezia finale 2",
+        "author": "J. R. R. Tolkien",
+        "year": 1916,
+        "available": true
+    },
+    {
+        "id": 934,
+        "title": "La vendetta del mago 4",
+        "author": "George Orwell",
+        "year": 1852,
+        "available": false
+    },
+    {
+        "id": 935,
+        "title": "La profezia finale 1",
+        "author": "George R. R. Martin",
+        "year": 1894,
+        "available": true
+    },
+    {
+        "id": 936,
+        "title": "L’ombra del passato 4",
+        "author": "George Orwell",
+        "year": 1999,
+        "available": true
+    },
+    {
+        "id": 937,
+        "title": "Il regno perduto 3",
+        "author": "Rick Riordan",
+        "year": 1999,
+        "available": true
+    },
+    {
+        "id": 938,
+        "title": "Il segreto del tempo 1",
+        "author": "J. R. R. Tolkien",
+        "year": 1922,
+        "available": true
+    },
+    {
+        "id": 939,
+        "title": "Il risveglio del drago 2",
+        "author": "J. R. R. Tolkien",
+        "year": 1889,
+        "available": true
+    },
+    {
+        "id": 940,
+        "title": "La profezia finale 4",
+        "author": "Isaac Asimov",
+        "year": 1930,
+        "available": true
+    },
+    {
+        "id": 941,
+        "title": "L’ultimo guardiano 3",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1905,
+        "available": false
+    },
+    {
+        "id": 942,
+        "title": "L’ombra del passato 1",
+        "author": "J. K. Rowling",
+        "year": 1897,
+        "available": false
+    },
+    {
+        "id": 943,
+        "title": "Il castello dimenticato 3",
+        "author": "Rick Riordan",
+        "year": 1934,
+        "available": true
+    },
+    {
+        "id": 944,
+        "title": "L’ultimo guardiano 4",
+        "author": "Jane Austen",
+        "year": 1888,
+        "available": true
+    },
+    {
+        "id": 945,
+        "title": "La profezia finale 2",
+        "author": "Rick Riordan",
+        "year": 2012,
+        "available": false
+    },
+    {
+        "id": 946,
+        "title": "La vendetta del mago 5",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1992,
+        "available": false
+    },
+    {
+        "id": 947,
+        "title": "L’ultimo guardiano 2",
+        "author": "Stephen King",
+        "year": 1994,
+        "available": true
+    },
+    {
+        "id": 948,
+        "title": "Il segreto del tempo 3",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1919,
+        "available": true
+    },
+    {
+        "id": 949,
+        "title": "La luce delle stelle 5",
+        "author": "J. K. Rowling",
+        "year": 1872,
+        "available": false
+    },
+    {
+        "id": 950,
+        "title": "L’ultimo guardiano 2",
+        "author": "George Orwell",
+        "year": 1952,
+        "available": false
+    },
+    {
+        "id": 951,
+        "title": "L’ultimo guardiano 5",
+        "author": "Rick Riordan",
+        "year": 2009,
+        "available": true
+    },
+    {
+        "id": 952,
+        "title": "La vendetta del mago 1",
+        "author": "Jane Austen",
+        "year": 1992,
+        "available": false
+    },
+    {
+        "id": 953,
+        "title": "La profezia finale 3",
+        "author": "George R. R. Martin",
+        "year": 2020,
+        "available": true
+    },
+    {
+        "id": 954,
+        "title": "Il risveglio del drago 1",
+        "author": "J. R. R. Tolkien",
+        "year": 2024,
+        "available": false
+    },
+    {
+        "id": 955,
+        "title": "La vendetta del mago 5",
+        "author": "George R. R. Martin",
+        "year": 2019,
+        "available": true
+    },
+    {
+        "id": 956,
+        "title": "Le cronache del fuoco 2",
+        "author": "J. R. R. Tolkien",
+        "year": 1956,
+        "available": false
+    },
+    {
+        "id": 957,
+        "title": "L’ombra del passato 4",
+        "author": "George Orwell",
+        "year": 1889,
+        "available": true
+    },
+    {
+        "id": 958,
+        "title": "Il castello dimenticato 5",
+        "author": "George R. R. Martin",
+        "year": 1982,
+        "available": false
+    },
+    {
+        "id": 959,
+        "title": "Le cronache del fuoco 1",
+        "author": "George R. R. Martin",
+        "year": 1924,
+        "available": false
+    },
+    {
+        "id": 960,
+        "title": "La profezia finale 5",
+        "author": "George R. R. Martin",
+        "year": 1996,
+        "available": true
+    },
+    {
+        "id": 961,
+        "title": "La profezia finale 1",
+        "author": "Umberto Eco",
+        "year": 1924,
+        "available": false
+    },
+    {
+        "id": 962,
+        "title": "L’ombra del passato 3",
+        "author": "George R. R. Martin",
+        "year": 1959,
+        "available": false
+    },
+    {
+        "id": 963,
+        "title": "Il regno perduto 2",
+        "author": "J. K. Rowling",
+        "year": 1894,
+        "available": false
+    },
+    {
+        "id": 964,
+        "title": "La vendetta del mago 1",
+        "author": "J. R. R. Tolkien",
+        "year": 1990,
+        "available": true
+    },
+    {
+        "id": 965,
+        "title": "Il segreto del tempo 5",
+        "author": "George R. R. Martin",
+        "year": 1854,
+        "available": true
+    },
+    {
+        "id": 966,
+        "title": "La profezia finale 5",
+        "author": "Isaac Asimov",
+        "year": 1880,
+        "available": true
+    },
+    {
+        "id": 967,
+        "title": "Le cronache del fuoco 1",
+        "author": "George Orwell",
+        "year": 1958,
+        "available": false
+    },
+    {
+        "id": 968,
+        "title": "L’ultimo guardiano 5",
+        "author": "Stephen King",
+        "year": 1952,
+        "available": true
+    },
+    {
+        "id": 969,
+        "title": "L’ombra del passato 5",
+        "author": "Umberto Eco",
+        "year": 1919,
+        "available": false
+    },
+    {
+        "id": 970,
+        "title": "L’ultimo guardiano 3",
+        "author": "George Orwell",
+        "year": 1999,
+        "available": true
+    },
+    {
+        "id": 971,
+        "title": "Il regno perduto 3",
+        "author": "George Orwell",
+        "year": 1916,
+        "available": true
+    },
+    {
+        "id": 972,
+        "title": "Il regno perduto 1",
+        "author": "Umberto Eco",
+        "year": 1996,
+        "available": false
+    },
+    {
+        "id": 973,
+        "title": "Le cronache del fuoco 2",
+        "author": "Stephen King",
+        "year": 1934,
+        "available": false
+    },
+    {
+        "id": 974,
+        "title": "La luce delle stelle 2",
+        "author": "Stephen King",
+        "year": 1942,
+        "available": true
+    },
+    {
+        "id": 975,
+        "title": "Il segreto del tempo 4",
+        "author": "J. K. Rowling",
+        "year": 1932,
+        "available": true
+    },
+    {
+        "id": 976,
+        "title": "Il segreto del tempo 3",
+        "author": "George Orwell",
+        "year": 1882,
+        "available": false
+    },
+    {
+        "id": 977,
+        "title": "La luce delle stelle 5",
+        "author": "J. K. Rowling",
+        "year": 1951,
+        "available": false
+    },
+    {
+        "id": 978,
+        "title": "Il castello dimenticato 1",
+        "author": "J. K. Rowling",
+        "year": 2002,
+        "available": false
+    },
+    {
+        "id": 979,
+        "title": "La vendetta del mago 5",
+        "author": "J. K. Rowling",
+        "year": 1978,
+        "available": true
+    },
+    {
+        "id": 980,
+        "title": "Il risveglio del drago 3",
+        "author": "J. R. R. Tolkien",
+        "year": 2017,
+        "available": true
+    },
+    {
+        "id": 981,
+        "title": "Il regno perduto 3",
+        "author": "Umberto Eco",
+        "year": 2025,
+        "available": true
+    },
+    {
+        "id": 982,
+        "title": "Il castello dimenticato 3",
+        "author": "J. K. Rowling",
+        "year": 1971,
+        "available": false
+    },
+    {
+        "id": 983,
+        "title": "Il castello dimenticato 1",
+        "author": "Stephen King",
+        "year": 2005,
+        "available": false
+    },
+    {
+        "id": 984,
+        "title": "Il segreto del tempo 3",
+        "author": "Stephen King",
+        "year": 1866,
+        "available": true
+    },
+    {
+        "id": 985,
+        "title": "L’ultimo guardiano 3",
+        "author": "Rick Riordan",
+        "year": 1990,
+        "available": false
+    },
+    {
+        "id": 986,
+        "title": "La vendetta del mago 1",
+        "author": "Stephen King",
+        "year": 2021,
+        "available": true
+    },
+    {
+        "id": 987,
+        "title": "L’ombra del passato 1",
+        "author": "Umberto Eco",
+        "year": 1975,
+        "available": false
+    },
+    {
+        "id": 988,
+        "title": "L’ombra del passato 5",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 2007,
+        "available": false
+    },
+    {
+        "id": 989,
+        "title": "Le cronache del fuoco 3",
+        "author": "Stephen King",
+        "year": 1894,
+        "available": true
+    },
+    {
+        "id": 990,
+        "title": "Le cronache del fuoco 5",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1999,
+        "available": false
+    },
+    {
+        "id": 991,
+        "title": "La vendetta del mago 3",
+        "author": "George R. R. Martin",
+        "year": 1966,
+        "available": true
+    },
+    {
+        "id": 992,
+        "title": "La profezia finale 5",
+        "author": "Isaac Asimov",
+        "year": 1936,
+        "available": false
+    },
+    {
+        "id": 993,
+        "title": "L’ultimo guardiano 1",
+        "author": "J. K. Rowling",
+        "year": 2006,
+        "available": false
+    },
+    {
+        "id": 994,
+        "title": "Il castello dimenticato 5",
+        "author": "Umberto Eco",
+        "year": 1978,
+        "available": false
+    },
+    {
+        "id": 995,
+        "title": "Il regno perduto 3",
+        "author": "George R. R. Martin",
+        "year": 1988,
+        "available": true
+    },
+    {
+        "id": 996,
+        "title": "La vendetta del mago 2",
+        "author": "George Orwell",
+        "year": 2010,
+        "available": true
+    },
+    {
+        "id": 997,
+        "title": "La vendetta del mago 5",
+        "author": "George Orwell",
+        "year": 1996,
+        "available": false
+    },
+    {
+        "id": 998,
+        "title": "La luce delle stelle 5",
+        "author": "Umberto Eco",
+        "year": 1967,
+        "available": false
+    },
+    {
+        "id": 999,
+        "title": "Il castello dimenticato 2",
+        "author": "Jane Austen",
+        "year": 1947,
+        "available": true
+    },
+    {
+        "id": 1000,
+        "title": "La vendetta del mago 4",
+        "author": "Stephen King",
+        "year": 1970,
+        "available": false
+    }
+]

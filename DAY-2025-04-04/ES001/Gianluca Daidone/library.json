@@ -1,0 +1,54 @@
+{
+    "library": [
+        {
+            "id": 1,
+            "title": "1984",
+            "author": "George Orwell",
+            "year": 1949,
+            "availability": true
+        },
+        {
+            "id": 3,
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "year": 1925,
+            "availability": false
+        },
+        {
+            "id": 4,
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "year": 1813,
+            "availability": true
+        },
+        {
+            "id": 5,
+            "title": "Moby-Dick",
+            "author": "Herman Melville",
+            "year": 1851,
+            "availability": false
+        },
+        {
+            "id": 6,
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "year": 1937,
+            "availability": true
+        },
+        {
+            "id": 7,
+            "title": "Harry Potter e La Pietra Filosofale",
+            "author": "J.K. Rowling",
+            "year": 2001,
+            "availability": true
+        },
+        {
+            "id": 8,
+            "title": "Harry Potter e La Camera dei Segreti",
+            "author": "J.K. Rowling",
+            "year": 2002,
+            "availability": true
+        }
+    ],
+    "nextID": 9
+}

@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": 1925,
+        "available": true
+    },
+    {
+        "id": 2,
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "available": false
+    },
+    {
+        "id": 3,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": 1960,
+        "available": true
+    },
+    {
+        "id": 4,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "year": 1813,
+        "available": true
+    },
+    {
+        "id": 5,
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "year": 1851,
+        "available": false
+    },
+    {
+        "id": 6,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "year": 1951,
+        "available": true
+    },
+    {
+        "id": 7,
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "year": 1954,
+        "available": true
+    },
+    {
+        "id": 8,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "year": 1937,
+        "available": false
+    },
+    {
+        "id": 9,
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "year": 1869,
+        "available": true
+    },
+    {
+        "id": 10,
+        "title": "The Odyssey",
+        "author": "Homer",
+        "year": -800,
+        "available": false
+    },
+    {
+        "id": 11,
+        "title": "The Divine Comedy",
+        "author": "Dante Alighieri",
+        "year": 1320,
+        "available": true
+    },
+    {
+        "id": 12,
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "year": 1866,
+        "available": false
+    },
+    {
+        "id": 13,
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "year": 1897,
+        "available": true
+    },
+    {
+        "id": 14,
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "year": 1818,
+        "available": true
+    },
+    {
+        "id": 15,
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "year": 1847,
+        "available": false
+    },
+    {
+        "id": 16,
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "year": 1847,
+        "available": true
+    }
+]

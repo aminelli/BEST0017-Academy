@@ -1,0 +1,152 @@
+{
+    "libri": [
+        {
+            "id": 1,
+            "titolo": "Il piccolo principe",
+            "autore": "Antoine de Saint-Exupéry",
+            "anno": 1943,
+            "disponibile": true
+        },
+        {
+            "id": 2,
+            "titolo": "Orgoglio e pregiudizio",
+            "autore": "Jane Austen",
+            "anno": 1813,
+            "disponibile": true
+        },
+        {
+            "id": 3,
+            "titolo": "Febbre a 90",
+            "autore": "Nick Hornby",
+            "anno": 1996,
+            "disponibile": true
+        },
+        {
+            "id": 4,
+            "titolo": "1984",
+            "autore": "George Orwell",
+            "anno": 1949,
+            "disponibile": false
+        },
+        {
+            "id": 5,
+            "titolo": "Il giovane Holden",
+            "autore": "J.D. Salinger",
+            "anno": 1951,
+            "disponibile": true
+        },
+        {
+            "id": 6,
+            "titolo": "La metamorfosi",
+            "autore": "Franz Kafka",
+            "anno": 1915,
+            "disponibile": true
+        },
+        {
+            "id": 7,
+            "titolo": "Il codice Da Vinci",
+            "autore": "Dan Brown",
+            "anno": 2003,
+            "disponibile": true
+        },
+        {
+            "id": 8,
+            "titolo": "Harry Potter e la pietra filosofale",
+            "autore": "J.K. Rowling",
+            "anno": 1997,
+            "disponibile": true
+        },
+        {
+            "id": 9,
+            "titolo": "Il signore degli anelli",
+            "autore": "J.R.R. Tolkien",
+            "anno": 1954,
+            "disponibile": true
+        },
+        {
+            "id": 10,
+            "titolo": "La casa degli spiriti",
+            "autore": "Isabel Allende",
+            "anno": 1982,
+            "disponibile": true
+        },
+        {
+            "id": 11,
+            "titolo": "Cento anni di solitudine",
+            "autore": "Gabriel García Márquez",
+            "anno": 1967,
+            "disponibile": true
+        },
+        {
+            "id": 12,
+            "titolo": "Moby Dick",
+            "autore": "Herman Melville",
+            "anno": 1851,
+            "disponibile": true
+        },
+        {
+            "id": 13,
+            "titolo": "Frankenstein",
+            "autore": "Mary Shelley",
+            "anno": 1818,
+            "disponibile": true
+        },
+        {
+            "id": 14,
+            "titolo": "Dracula",
+            "autore": "Bram Stoker",
+            "anno": 1897,
+            "disponibile": true
+        },
+        {
+            "id": 15,
+            "titolo": "Il grande Gatsby",
+            "autore": "F. Scott Fitzgerald",
+            "anno": 1925,
+            "disponibile": true
+        },
+        {
+            "id": 16,
+            "titolo": "Il buio oltre la siepe",
+            "autore": "Harper Lee",
+            "anno": 1960,
+            "disponibile": true
+        },
+        {
+            "id": 17,
+            "titolo": "Shining",
+            "autore": "Stephen King",
+            "anno": 1977,
+            "disponibile": true
+        },
+        {
+            "id": 18,
+            "titolo": "Il vecchio e il mare",
+            "autore": "Ernest Hemingway",
+            "anno": 1952,
+            "disponibile": true
+        },
+        {
+            "id": 19,
+            "titolo": "Il nome della rosa",
+            "autore": "Umberto Eco",
+            "anno": 1980,
+            "disponibile": true
+        },
+        {
+            "id": 20,
+            "titolo": "La solitudine dei numeri primi",
+            "autore": "Paolo Giordano",
+            "anno": 2008,
+            "disponibile": true
+        },
+        {
+            "id": 21,
+            "titolo": "Geronimo Stilton Viaggia nel tempo",
+            "autore": "Geronimo Stilton",
+            "anno": 2004,
+            "disponibile": true
+        }
+    ],
+    "ultimo_id": 21
+}

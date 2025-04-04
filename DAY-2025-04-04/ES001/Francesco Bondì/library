@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "avaible": true
+    },
+    {
+        "id": 2,
+        "title": "Il nome della rosa",
+        "author": "Umberto Eco",
+        "year": 1980,
+        "avaible": true
+    },
+    {
+        "id": 3,
+        "title": "Harry Potter e la pietra filosofale",
+        "author": "J.K. Rowling",
+        "year": 1997,
+        "avaible": true
+    },
+    {
+        "id": 4,
+        "title": "Il signore degli anelli",
+        "author": "J.R.R. Tolkien",
+        "year": 1954,
+        "avaible": true
+    },
+    {
+        "id": 5,
+        "title": "La strada",
+        "author": "Cormac McCarthy",
+        "year": 2006,
+        "avaible": true
+    },
+    {
+        "id": 6,
+        "title": "L'ombra del vento",
+        "author": "Carlos Ruiz Zafón",
+        "year": 2001,
+        "avaible": true
+    },
+    {
+        "id": 7,
+        "title": "Orgoglio e pregiudizio",
+        "author": "Jane Austen",
+        "year": 1813,
+        "avaible": true
+    },
+    {
+        "id": 8,
+        "title": "Il piccolo principe",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1943,
+        "avaible": true
+    },
+    {
+        "id": 9,
+        "title": "La casa degli spiriti",
+        "author": "Isabel Allende",
+        "year": 1982,
+        "avaible": true
+    },
+    {
+        "id": 10,
+        "title": "Il barone rampante",
+        "author": "Italo Calvino",
+        "year": 1957,
+        "avaible": true
+    }
+]
