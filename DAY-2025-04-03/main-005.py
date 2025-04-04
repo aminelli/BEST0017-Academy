@@ -172,7 +172,7 @@ x = calc_max([5, 120,6,2])
 
 from typing import List, Dict, Optional, Union, Callable, TypeVar
 
-from typeguard import typechecked
+#from typeguard import typechecked
 #import enforce
 
 Number = TypeVar("Number", int, float)
@@ -181,7 +181,12 @@ Number = TypeVar("Number", int, float)
 #@typechecked
 #@enforce.runtime_validation
 def calcMultiplication(x: Number, y: Number) -> Number: 
-    
+    if not isinstance(x, (int, float)) or not isinstance(y, (int, float)):
+        raise TypeError("Errore")
+   
+    if not isinstance(x, (Number)) or not isinstance(y, (Number)):
+        raise TypeError("Errore")
+   
     return x * y
 
 x1 = calcMultiplication(3 , 4)
@@ -203,6 +208,22 @@ s1 , s2 = exchange("ciao", "mondo")
 print(s1, s2)
 
 
+def func01(val: Optional[int] = None) -> None:
+    if val is None:
+        print("Valore non impostato")
+    else:
+        print(val)
+
+def func02(a: Union[int,str], b: Union[int, str]) -> Union[int,str]:
+    return a + b
+
+def funcDivide(a:int, b:int) -> Union[int, float, str]:
+    if (b == 0):
+        return "Errore: divisione by 0"
+    return a / b
+
+# Optional[int] => Union[int, None]
+
 def filter_list(
     items: List[T],
     filter: Callable[[T], bool],
@@ -218,6 +239,9 @@ def filter_list(
     return result
 
 list1 = [1, 2, 3, 4, 5, 6]
+#result = filter_list(list1)
 result = filter_list(list1, lambda x: x % 2 == 0)
+
+result2 = filter_list(list1, lambda x: x % 2 == 0, lambda x: x ** 2  )
 
 print("END")
