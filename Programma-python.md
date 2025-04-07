@@ -47,3 +47,47 @@
 - Importare moduli: come importare e utilizzare moduli built-in come math, random, os
 - Uso di pacchetti esterni con pip (es. requests, numpy)
 - Esercizi pratici: scrivere funzioni per risolvere piccoli problemi
+
+===
+
+## GIORNO 23 - Lunedì 2025-04-07
+
+- Progetto Pratico - Gestione di un Elenco di Contatti
+- Creare una semplice applicazione per aggiungere, cercare e rimuovere contatti da un elenco
+- Utilizzare liste, dizionari e funzioni per gestire i contatti
+
+## Giorno 24 - Martedì 2025-04-08
+
+- Programmazione Orientata agli Oggetti (OOP) in Python
+- Concetti base di OOP: classi, oggetti, attributi e metodi
+- Costruttori: come definire e utilizzare il metodo __init__
+- Ereditarietà e Polimorfismo: creazione di classi derivate, overriding dei metodi
+- Incapsulamento: attributi e metodi privati
+- Metodi speciali: __str__, __repr__, __len__
+- Strutture Dati Avanzate
+
+
+## GIORNO 25 - Mercoledì 2025-04-09
+
+- Liste e Comprehensions: liste, set, e dictionary comprehension
+- Set e Dizionari: operazioni avanzate con set e dizionari
+- Funzioni Lambda e Map/Filter: utilizzo di lambda e altre funzioni funzionali
+- Accenni e primi utilizzi delle librerie Pandas e Numpy  per l'analisi dei dati
+- Accenni alla librerita scikit-learn per il machine learning e differenze tra Machine Learning supervisionato e non
+
+
+## GIORNO 26 - Giovedì 2025-04-10
+
+- Introduzione a Flask
+- Installazione di Flask: pip install flask
+- Creazione di una semplice applicazione web con Flask
+- Rotte e Metodi HTTP: creare route di base per gestire richieste HTTP (GET, POST)
+- Template in Flask con Jinja2
+- Rendering dei template HTML con Jinja2
+- Creare pagine web dinamiche con variabili passate dal backend
+- Utilizzo di strutture di controllo nei template (if, loops)
+
+
+## GIORNO 27 - Venerdì 2025-04-10
+
+Gestione dei Form in Flask ed esercitazione sulla creazione di una applicazione web che consenta agli utenti di aggiungere, modificare e visualizzare informazioni

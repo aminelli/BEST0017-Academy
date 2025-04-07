@@ -1,0 +1,49 @@
+Statistic Type,Detail,Value
+Total Books,,25
+Books Lent,,8
+Books Available,,17
+Oldest Book,,The Odyssey (-800)
+Newest Book,,To Kill a Mockingbird (1960)
+Books per Author,,
+,Aldous Huxley,1
+,Charles Dickens,2
+,Charlotte Brontë,1
+,Ernest Hemingway,1
+,F. Scott Fitzgerald,1
+,Fyodor Dostoevsky,4
+,George Eliot,1
+,George Orwell,2
+,Harper Lee,1
+,Herman Melville,1
+,Homer,1
+,J.D. Salinger,1
+,Jane Austen,3
+,Leo Tolstoy,1
+,Nathaniel Hawthorne,1
+,Oscar Wilde,1
+,Ray Bradbury,1
+,Victor Hugo,1
+Books per Year,,
+,-800,1
+,1811,1
+,1813,1
+,1815,1
+,1847,1
+,1850,1
+,1851,1
+,1859,1
+,1861,1
+,1862,1
+,1864,1
+,1866,1
+,1869,2
+,1871,1
+,1880,1
+,1890,1
+,1925,2
+,1932,1
+,1945,1
+,1949,1
+,1951,1
+,1953,1
+,1960,1

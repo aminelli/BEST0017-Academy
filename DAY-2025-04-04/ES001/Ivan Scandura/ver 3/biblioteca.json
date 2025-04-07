@@ -1,0 +1,177 @@
+[
+    {
+        "id": "8cbd9c8e-3eb0-4933-b539-515daca1bd6f",
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "available": false
+    },
+    {
+        "id": "0524b106-f3cf-40b8-8fc3-6f86cf1f1b2b",
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "year": 1932,
+        "available": false
+    },
+    {
+        "id": "98f92ad2-c5c3-4203-9d62-926f651c99ab",
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "year": 1953,
+        "available": true
+    },
+    {
+        "id": "2e758ce3-2299-44a3-a682-ebf795c2a25a",
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "year": 1951,
+        "available": true
+    },
+    {
+        "id": "0b984f7a-2bbf-4de4-9cea-2b94b19e3fcc",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": 1960,
+        "available": true
+    },
+    {
+        "id": "7c7322f1-3eeb-45b4-b509-31c275a30ea5",
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "year": 1813,
+        "available": true
+    },
+    {
+        "id": "cd862204-36c2-460c-8c28-5bb2e3314d1f",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": 1925,
+        "available": true
+    },
+    {
+        "id": "9b00abbb-f647-401b-b1d5-4ade1ac3ad57",
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "year": 1851,
+        "available": false
+    },
+    {
+        "id": "218c8ca9-28f4-4ac2-a9b5-e597512120b1",
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "year": 1869,
+        "available": true
+    },
+    {
+        "id": "09201a81-b803-4fcf-91f7-fa3a05ef644c",
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "year": 1866,
+        "available": true
+    },
+    {
+        "id": "52e93ec3-1277-47dc-97f3-fc21e724f22b",
+        "title": "The Odyssey",
+        "author": "Homer",
+        "year": -800,
+        "available": true
+    },
+    {
+        "id": "903a56dc-7351-4622-8c91-71179f09afb5",
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky",
+        "year": 1880,
+        "available": false
+    },
+    {
+        "id": "7cdbbb92-d7e8-4b52-954f-9ada74e4ac12",
+        "title": "Les Mis\u00e9rables",
+        "author": "Victor Hugo",
+        "year": 1862,
+        "available": true
+    },
+    {
+        "id": "83494def-64f8-4d03-8593-a8c78bcc2ab9",
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "year": 1890,
+        "available": true
+    },
+    {
+        "id": "7ddcb991-6aff-48fc-adf8-3686dd9f7c17",
+        "title": "Jane Eyre",
+        "author": "Charlotte Bront\u00eb",
+        "year": 1847,
+        "available": false
+    },
+    {
+        "id": "8df52c74-ff88-4467-9ba0-098000ef50f0",
+        "title": "Emma",
+        "author": "Jane Austen",
+        "year": 1815,
+        "available": true
+    },
+    {
+        "id": "64dd5baf-7ce8-4fd6-a343-53103b20c0ab",
+        "title": "Notes from Underground",
+        "author": "Fyodor Dostoevsky",
+        "year": 1864,
+        "available": true
+    },
+    {
+        "id": "f4e599c8-dad4-475b-b966-48349e977cfb",
+        "title": "A Tale of Two Cities",
+        "author": "Charles Dickens",
+        "year": 1859,
+        "available": true
+    },
+    {
+        "id": "b506d892-df57-43b8-8cc2-d3416f6e3f9a",
+        "title": "The Sun Also Rises",
+        "author": "Ernest Hemingway",
+        "year": 1925,
+        "available": false
+    },
+    {
+        "id": "a931b067-a82a-4f87-9464-8378825f26cb",
+        "title": "Middlemarch",
+        "author": "George Eliot",
+        "year": 1871,
+        "available": true
+    },
+    {
+        "id": "897dcd6c-202e-4c4b-bc00-46096115aea1",
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "year": 1945,
+        "available": true
+    },
+    {
+        "id": "6ab42aa2-c2fa-4b7b-8ffb-6cf8993b0605",
+        "title": "The Idiot",
+        "author": "Fyodor Dostoevsky",
+        "year": 1869,
+        "available": false
+    },
+    {
+        "id": "6afff87d-2bdb-4cd6-89b0-b20b6a1eb5e5",
+        "title": "Sense and Sensibility",
+        "author": "Jane Austen",
+        "year": 1811,
+        "available": true
+    },
+    {
+        "id": "a7d095b2-8462-4744-ac33-3c89d7571335",
+        "title": "Great Expectations",
+        "author": "Charles Dickens",
+        "year": 1861,
+        "available": true
+    },
+    {
+        "id": "0fadb84c-3ed6-4006-80aa-f691a5b0c999",
+        "title": "The Scarlet Letter",
+        "author": "Nathaniel Hawthorne",
+        "year": 1850,
+        "available": false
+    }
+]
